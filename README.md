@@ -2,11 +2,11 @@
 This project shows how to build a complete Retail Data Warehouse using MySQL and develop an interactive Analytics Dashboard in Tableau.
 It walks through every stage of a real-world BI workflow — from importing raw data and cleaning it, to designing dimensional models, creating fact and dimension tables, building analytical SQL views, and finally visualizing insights through a dashboard.
 
-📘 ## Project Overview
+## 📘 Project Overview
 
 This project demonstrates the complete BI lifecycle—transforming raw retail transaction data into a structured MySQL data warehouse, building analytical SQL views, and developing a fully interactive Tableau dashboard. It mirrors real workflows used in modern retail and e-commerce analytics teams.
 
-🎯 ## Objectives
+## 🎯 Objectives
 
 * Clean and preprocess raw retail transaction data.
 * Design a dimensional data warehouse (fact & dimension tables).
@@ -14,7 +14,7 @@ This project demonstrates the complete BI lifecycle—transforming raw retail tr
 * Develop a Tableau dashboard for interactive data exploration.
 * Answer key business questions related to sales, customers, and product performance.
 
-📊 ## Key Insights Delivered
+## 📊 Key Insights Delivered
 
 * Monthly revenue performance and trends
 * Top revenue-generating countries and regions
@@ -22,14 +22,14 @@ This project demonstrates the complete BI lifecycle—transforming raw retail tr
 * Customer segment behavior and purchasing patterns
 * KPIs including: Revenue, Orders, AOV, ARPC
 
-🧰 ## Tech Stack
+## 🧰 Tech Stack
 
 * SQL (MySQL) – Data cleaning, transformation, modeling, and analytical views
 * Tableau – Dashboard design and visualization
 * Excel / CSV – Raw data source
 * Data Modeling – Star schema, fact & dimension tables
 
-🏗️ Data Warehouse Architecture
+## 🏗️ Data Warehouse Architecture
 ## Dimensional Model (Star Schema)
 
 * ### Fact Table:
@@ -41,7 +41,7 @@ This project demonstrates the complete BI lifecycle—transforming raw retail tr
      * order
 This structure ensures efficient querying and flexible analytics.
 
-🧮 ## SQL Components
+## 🧮 SQL Components
 
 * Data cleaning & standardization
 * Deduplication & null handling
@@ -50,7 +50,7 @@ This structure ensures efficient querying and flexible analytics.
 * KPI calculation queries
 * Analytical views used directly in Tableau
 
-  📈 ## Tableau Dashboard
+  ## 📈 Tableau Dashboard
 
 The dashboard visualizes actionable retail insights, including:
 📆 Monthly Revenue Trend
@@ -60,7 +60,7 @@ The dashboard visualizes actionable retail insights, including:
 💡 KPI Summary (Revenue, Orders, AOV, ARPC)
 A sample of the visualization is included in the repository.
 
-📝 ## Sample Business Key insights
+## 📝 Sample Business Key insights
 
 * How does revenue trend over time?
 * Which countries contribute the most sales?
@@ -68,7 +68,7 @@ A sample of the visualization is included in the repository.
 * How do customers behave across segments?
 * What KPIs best represent overall business health?
 
-  🚀 ## End-to-End Workflow
+  ## 🚀 End-to-End Workflow
 
 1.Raw Data Import
 2.Data Cleaning & Preparation (SQL)
@@ -78,7 +78,7 @@ A sample of the visualization is included in the repository.
 6.Tableau Dashboard Design
 7.Insights & Reporting
 
-🧑‍💼 ## Why This Project Matters
+## 🧑‍💼 Why This Project Matters
 
 This project reflects industry-standard BI practices and demonstrates core skills used by:
 * Data Analysts
