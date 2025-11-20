@@ -1,0 +1,4340 @@
+CustomerID,Country,Total_revenue,Orders
+0,"United Kingdom",7671010.39,571046
+12346,"United Kingdom",308734.40,4
+12347,"Iceland",17808.88,756
+12348,"Finland",7443.36,132
+12349,"Italy",8171.08,340
+12350,"Norway",1337.60,68
+12352,"Norway",10143.56,348
+12353,"Bahrain",356.00,16
+12354,"Spain",4833.12,256
+12355,"Bahrain",1837.60,52
+12356,"Portugal",11855.32,248
+12357,"Switzerland",26900.60,560
+12358,"Austria",4732.24,80
+12359,"Cyprus",29068.92,1148
+12360,"Austria",11715.84,560
+12361,"Belgium",825.60,44
+12362,"Belgium",23558.32,1216
+12363,"Unspecified",3189.12,112
+12364,"Belgium",5395.80,352
+12365,"Cyprus",2565.52,88
+12367,"Denmark",675.60,44
+12370,"Cyprus",15869.96,704
+12371,"Switzerland",7797.84,264
+12372,"Denmark",5369.76,224
+12373,"Austria",1458.40,56
+12374,"Austria",3041.32,136
+12375,"Finland",2362.00,92
+12377,"Switzerland",7189.28,332
+12378,"Switzerland",18019.52,976
+12379,"Belgium",3815.44,184
+12380,"Belgium",12347.32,492
+12381,"Norway",7815.64,376
+12383,"Belgium",7838.72,424
+12384,"Switzerland",2441.88,112
+12386,"Australia",1727.60,44
+12388,"Australia",12675.20,460
+12390,"Belgium",2805.36,160
+12391,"Cyprus",2205.92,456
+12393,"Australia",7663.20,308
+12394,"Belgium",5289.12,116
+12395,"Belgium",13473.10,692
+12397,"Belgium",11005.08,584
+12398,"Switzerland",7267.52,392
+12399,"Belgium",5390.48,280
+12401,"Belgium",337.20,20
+12402,"Belgium",980.40,48
+12403,"Denmark",3238.00,32
+12405,"Finland",7179.48,228
+12406,"Denmark",17805.72,504
+12407,"Belgium",7025.68,320
+12408,"Belgium",12598.04,472
+12409,"Switzerland",52097.68,492
+12410,"Switzerland",2773.32,104
+12412,"Denmark",6176.48,296
+12413,"France",3032.40,152
+12414,"Austria",2249.64,72
+12415,"Australia",585617.92,3256
+12417,"Belgium",16254.08,864
+12418,"Switzerland",3151.32,156
+12420,"Cyprus",2874.84,148
+12421,"Spain",3408.16,188
+12422,"Australia",3346.24,164
+12423,"Belgium",8053.48,536
+12424,"Australia",8581.04,140
+12425,"Portugal",3630.24,160
+12426,"Germany",2540.32,132
+12427,"Germany",4010.90,154
+12428,"Finland",34193.68,1264
+12429,"Denmark",16895.52,428
+12430,"Norway",1071.20,48
+12431,"Australia",28118.13,1050
+12432,"Norway",21776.88,464
+12433,"Norway",62787.10,1929
+12434,"Australia",3799.24,228
+12435,"Denmark",34134.76,152
+12436,"Norway",2264.64,72
+12437,"France",20823.80,852
+12438,"Norway",13181.80,440
+12441,"France",694.20,44
+12442,"Spain",688.24,48
+12444,"Norway",21846.24,768
+12445,"Spain",603.20,20
+12446,"RSA",5101.72,284
+12447,"Belgium",1905.96,104
+12448,"Spain",1797.80,88
+12449,"Belgium",18416.12,848
+12450,"Spain",1573.92,56
+12451,"Switzerland",39211.44,1552
+12452,"Switzerland",1855.08,96
+12453,"Austria",3438.44,208
+12454,"Spain",17584.24,76
+12455,"Cyprus",12272.40,432
+12456,"Switzerland",14006.64,556
+12457,"Switzerland",10532.04,296
+12458,"Switzerland",3852.80,156
+12461,"Switzerland",3348.32,144
+12462,"Spain",5069.16,268
+12463,"Belgium",6145.68,380
+12464,"Belgium",6008.40,136
+12465,"Belgium",3075.96,196
+12468,"Germany",3235.16,172
+12471,"Germany",85717.96,2088
+12472,"Germany",31355.36,1632
+12473,"Germany",16926.92,728
+12474,"Germany",32451.64,1876
+12475,"Germany",3428.12,168
+12476,"Germany",31877.76,1056
+12477,"Germany",55972.40,1304
+12478,"Greece",3116.76,168
+12479,"Germany",2268.80,132
+12480,"Germany",14916.76,716
+12481,"Germany",28659.20,1060
+12483,"Sweden",10854.32,332
+12484,"Spain",19414.40,1492
+12488,"France",5516.64,232
+12489,"France",1339.72,60
+12490,"France",23904.52,1076
+12491,"France",2147.20,120
+12492,"Germany",1172.84,88
+12493,"France",2064.96,108
+12494,"France",6016.88,364
+12497,"Germany",5008.80,64
+12498,"Germany",1614.80,92
+12500,"Germany",20122.96,276
+12501,"Germany",9475.64,640
+12502,"Spain",15722.88,632
+12504,"Germany",2823.80,52
+12506,"France",297.40,96
+12507,"Spain",5687.24,96
+12508,"France",1753.20,300
+12509,"France",706.00,28
+12510,"Spain",4009.48,136
+12512,"Israel",637.32,164
+12513,"France",2515.16,144
+12514,"Italy",4274.72,216
+12515,"Italy",1534.80,64
+12516,"Germany",5421.84,112
+12517,"Germany",10671.48,1208
+12518,"Germany",9198.44,560
+12519,"Germany",1423.36,76
+12520,"Germany",11574.72,664
+12521,"Germany",2841.28,188
+12522,"Germany",770.88,48
+12523,"France",8574.48,528
+12524,"Germany",19358.80,628
+12526,"Germany",6024.64,316
+12527,"Germany",1394.84,72
+12528,"Germany",8224.12,396
+12530,"Germany",7342.48,296
+12531,"Germany",500.88,68
+12532,"France",1459.32,68
+12534,"Germany",4698.72,280
+12535,"France",2985.40,144
+12536,"France",51459.60,1100
+12538,"Spain",1911.80,108
+12539,"Spain",23492.00,1160
+12540,"Spain",58015.08,2084
+12541,"Spain",4320.72,228
+12544,"Spain",1690.00,84
+12545,"Spain",4111.96,208
+12546,"Spain",4778.80,284
+12547,"Spain",831.20,32
+12548,"Spain",380.80,20
+12550,"Spain",4169.12,248
+12551,"Spain",750.00,44
+12552,"Italy",1830.48,84
+12553,"France",16466.72,856
+12556,"Spain",2957.28,572
+12557,"Spain",89493.64,211
+12558,"USA",1484.00,60
+12559,"Germany",2378.84,92
+12560,"Germany",10194.56,516
+12561,"Germany",955.40,64
+12562,"France",17456.96,788
+12564,"France",1893.60,88
+12565,"Saudi Arabia",583.68,36
+12566,"Germany",1599.40,88
+12567,"France",42514.28,2041
+12569,"Germany",18224.68,832
+12571,"France",2119.24,140
+12572,"Germany",4257.60,256
+12573,"France",781.72,124
+12574,"France",873.80,44
+12576,"Poland",5647.32,376
+12577,"France",2914.68,648
+12578,"Italy",12369.64,516
+12579,"France",1803.68,120
+12580,"Germany",1900.40,108
+12581,"Germany",790.84,60
+12582,"Finland",2099.52,92
+12583,"France",33533.54,1105
+12584,"Italy",10804.40,432
+12585,"Germany",9182.40,384
+12586,"Italy",858.56,48
+12587,"Finland",576.00,16
+12588,"Finland",859.60,40
+12589,"France",2637.12,144
+12590,"Germany",45312.24,308
+12591,"Italy",2013.40,120
+12592,"Germany",1844.00,76
+12593,"France",1672.40,84
+12594,"Italy",14573.28,504
+12596,"Spain",2577.08,116
+12597,"Spain",17566.96,960
+12598,"France",13309.92,588
+12599,"France",4310.32,252
+12600,"Germany",10547.54,262
+12601,"Germany",2308.24,112
+12602,"France",755.68,60
+12603,"Germany",2956.80,8
+12604,"France",1016.72,64
+12607,"USA",6857.64,436
+12609,"Germany",5015.00,272
+12610,"Italy",9501.36,496
+12611,"Italy",5132.84,288
+12612,"Germany",2816.16,76
+12613,"Germany",15093.64,696
+12614,"Germany",1262.40,80
+12615,"France",9505.40,440
+12616,"France",2893.20,132
+12617,"France",1514.92,184
+12618,"Italy",750.04,48
+12619,"Germany",16002.96,380
+12620,"France",6072.28,408
+12621,"Germany",60625.88,2092
+12622,"Germany",761.20,48
+12623,"Germany",1299.60,76
+12624,"France",2725.32,160
+12625,"Germany",12558.64,408
+12626,"Germany",28754.56,1268
+12627,"Germany",20151.92,1032
+12628,"Germany",3577.36,184
+12630,"Finland",5415.92,272
+12631,"Finland",3657.68,184
+12633,"Germany",8942.40,424
+12635,"Germany",8010.72,472
+12637,"France",25506.52,1704
+12638,"Sweden",2739.56,160
+12639,"Sweden",2156.40,104
+12640,"France",5025.32,228
+12641,"Sweden",804.80,44
+12642,"Germany",4053.04,188
+12643,"France",13378.56,96
+12644,"Germany",2303.04,144
+12645,"Germany",7602.72,324
+12646,"USA",6566.44,220
+12647,"Germany",17046.53,562
+12648,"Germany",1405.00,92
+12649,"Germany",2625.44,132
+12650,"France",1257.76,80
+12651,"France",456.00,36
+12652,"France",3821.52,200
+12653,"Israel",12155.24,212
+12654,"Germany",2558.72,164
+12656,"France",18031.08,572
+12657,"France",7038.32,212
+12658,"Germany",3208.60,172
+12659,"France",486.72,28
+12660,"France",980.40,52
+12662,"Germany",16788.88,1004
+12664,"Finland",36753.04,236
+12665,"Germany",372.00,16
+12667,"Finland",2551.32,136
+12668,"Germany",16645.24,700
+12669,"France",11157.32,416
+12670,"France",12830.20,396
+12672,"France",903.60,40
+12673,"Germany",2476.08,172
+12674,"France",8872.40,364
+12676,"Sweden",5325.56,180
+12678,"France",88005.04,756
+12679,"France",5754.00,224
+12680,"France",3716.84,224
+12681,"France",59701.20,2788
+12682,"France",57131.34,2473
+12683,"France",37703.08,1580
+12684,"France",9359.32,432
+12685,"France",13681.20,740
+12686,"France",445.70,35
+12688,"Israel",21287.44,756
+12689,"France",5335.64,312
+12690,"France",1688.04,72
+12691,"France",5245.60,148
+12693,"Germany",3928.04,184
+12694,"France",3478.68,148
+12695,"France",2447.20,116
+12697,"Sweden",4400.72,196
+12700,"France",23075.96,1248
+12701,"Germany",3541.08,240
+12702,"Germany",876.00,48
+12703,"Germany",1193.60,88
+12704,"Finland",9804.48,376
+12705,"Germany",29088.20,1428
+12707,"France",2484.48,136
+12708,"Germany",11951.96,696
+12709,"Germany",40362.04,884
+12710,"Germany",4916.88,332
+12712,"Germany",18458.85,561
+12713,"Germany",4181.36,184
+12714,"France",20911.84,1136
+12715,"Sweden",1456.24,88
+12716,"France",4467.24,288
+12717,"Greece",4302.96,236
+12718,"France",1022.60,80
+12719,"France",2729.40,168
+12720,"Germany",26052.12,1604
+12721,"France",11773.48,720
+12722,"France",4634.68,240
+12723,"France",3268.08,304
+12724,"France",5186.84,264
+12725,"Italy",2139.00,120
+12726,"France",10576.80,504
+12727,"France",16545.68,572
+12728,"France",3585.32,196
+12729,"France",1944.84,112
+12731,"France",77044.76,1148
+12732,"France",1264.72,60
+12733,"USA",1714.00,100
+12734,"France",441.60,16
+12735,"France",3279.48,180
+12736,"France",936.00,16
+12738,"Germany",993.25,75
+12739,"United Arab Emirates",4416.96,172
+12740,"France",1843.20,116
+12743,"Unspecified",2325.16,560
+12744,"Singapore",90582.20,1020
+12747,"United Kingdom",17725.56,460
+12748,"United Kingdom",148448.84,20024
+12749,"United Kingdom",19364.08,940
+12750,"Poland",1386.72,76
+12752,"Norway",22520.72,240
+12753,"Japan",95465.72,872
+12754,"Japan",12062.04,268
+12755,"Japan",15247.80,16
+12756,"Japan",448.32,16
+12757,"Portugal",36268.12,1756
+12758,"Portugal",13548.76,448
+12759,"Netherlands",6984.56,428
+12762,"Portugal",8215.68,304
+12763,"Japan",1976.32,72
+12764,"Lebanon",6876.32,184
+12766,"Portugal",30436.12,1360
+12769,"Brazil",4574.40,128
+12770,"Japan",5735.80,52
+12772,"Portugal",3818.68,236
+12775,"Netherlands",6497.44,308
+12778,"Netherlands",3479.72,212
+12779,"Poland",17208.72,637
+12781,"Czech Republic",3466.32,104
+12782,"Portugal",10199.44,456
+12783,"Portugal",9569.96,372
+12784,"Portugal",2937.28,284
+12785,"Portugal",1525.60,72
+12787,"Netherlands",2021.04,88
+12789,"Netherlands",367.40,16
+12790,"Netherlands",1299.68,84
+12791,"Netherlands",963.00,10
+12792,"Portugal",1681.36,104
+12793,"Portugal",2792.22,116
+12794,"Portugal",3682.84,188
+12795,"Portugal",1721.92,56
+12797,"Portugal",1016.12,52
+12798,"Japan",27908.16,32
+12802,"Netherlands",1850.72,108
+12808,"Portugal",2067.40,120
+12809,"Portugal",2146.84,112
+12811,"Portugal",2203.40,132
+12812,"Japan",918.56,60
+12814,"Poland",503.68,8
+12815,"Poland",4493.84,200
+12816,"Poland",2356.60,120
+12817,"Austria",664.16,16
+12818,"Austria",7657.92,68
+12820,"United Kingdom",4784.64,292
+12821,"United Kingdom",491.36,32
+12822,"United Kingdom",4054.32,200
+12823,"United Kingdom",7038.00,20
+12824,"United Kingdom",1877.60,120
+12826,"United Kingdom",6730.08,408
+12827,"United Kingdom",1720.60,100
+12828,"United Kingdom",4209.24,232
+12829,"United Kingdom",1172.00,44
+12830,"United Kingdom",29522.24,164
+12831,"United Kingdom",860.20,36
+12832,"United Kingdom",1836.72,128
+12833,"United Kingdom",1729.52,100
+12834,"United Kingdom",1350.32,76
+12836,"United Kingdom",12121.84,780
+12837,"United Kingdom",627.20,56
+12838,"United Kingdom",3579.21,620
+12839,"United Kingdom",25755.88,1424
+12840,"United Kingdom",12293.48,504
+12841,"United Kingdom",17736.38,1863
+12842,"United Kingdom",5923.88,176
+12843,"United Kingdom",7542.28,452
+12844,"United Kingdom",1506.96,232
+12845,"United Kingdom",1428.16,112
+12847,"United Kingdom",3721.48,384
+12849,"United Kingdom",4864.96,224
+12851,"United Kingdom",810.00,256
+12852,"United Kingdom",1386.60,76
+12853,"United Kingdom",8383.20,340
+12854,"United Kingdom",5662.00,472
+12855,"United Kingdom",241.50,20
+12856,"United Kingdom",9570.84,1400
+12857,"United Kingdom",4567.20,192
+12863,"United Kingdom",2372.80,24
+12864,"United Kingdom",588.48,12
+12865,"Austria",7948.92,452
+12866,"Belgium",2336.08,108
+12867,"United Kingdom",19899.04,2516
+12868,"United Kingdom",7067.62,472
+12871,"United Kingdom",2703.36,64
+12872,"United Kingdom",2767.88,292
+12873,"United Kingdom",1496.00,16
+12875,"United Kingdom",1372.92,8
+12876,"Belgium",9175.68,360
+12877,"United Kingdom",7578.60,696
+12878,"United Kingdom",3675.16,204
+12879,"United Kingdom",2292.88,40
+12881,"United Kingdom",1192.00,28
+12882,"United Kingdom",6209.76,56
+12883,"United Kingdom",3938.12,228
+12884,"United Kingdom",1236.20,28
+12885,"United Kingdom",5623.68,328
+12886,"United Kingdom",6016.80,364
+12888,"United Kingdom",1416.48,20
+12890,"United Kingdom",1999.24,400
+12891,"United Kingdom",1324.00,12
+12893,"United Kingdom",824.76,152
+12895,"United Kingdom",1491.20,88
+12897,"United Kingdom",984.80,20
+12901,"United Kingdom",76186.16,468
+12902,"United Kingdom",622.52,44
+12904,"United Kingdom",2132.80,312
+12906,"United Kingdom",14586.92,308
+12908,"United Kingdom",3000.00,8
+12909,"United Kingdom",9761.88,428
+12910,"United Kingdom",14254.96,340
+12912,"United Kingdom",7114.80,104
+12913,"United Kingdom",11708.60,232
+12915,"United Kingdom",1654.25,101
+12916,"United Kingdom",15879.00,528
+12917,"United Kingdom",2376.00,8
+12919,"United Kingdom",5715.24,224
+12920,"United Kingdom",747.32,144
+12921,"United Kingdom",88092.60,3545
+12922,"United Kingdom",1621.52,112
+12923,"United Kingdom",807.48,132
+12924,"United Kingdom",5064.64,144
+12925,"United Kingdom",3233.96,212
+12928,"United Kingdom",9603.20,404
+12929,"United Kingdom",512.20,36
+12930,"United Kingdom",1729.60,104
+12931,"United Kingdom",202935.04,404
+12933,"United Kingdom",2627.92,460
+12935,"United Kingdom",9466.00,568
+12936,"United Kingdom",4388.40,256
+12937,"United Kingdom",7218.88,532
+12938,"United Kingdom",527.36,40
+12939,"United Kingdom",55769.76,228
+12940,"United Kingdom",3971.96,432
+12942,"United Kingdom",3147.16,364
+12944,"United Kingdom",2698.04,136
+12945,"United Kingdom",2081.80,104
+12947,"United Kingdom",7395.60,437
+12948,"United Kingdom",9329.00,520
+12949,"United Kingdom",18819.08,972
+12950,"United Kingdom",7372.00,92
+12951,"United Kingdom",4807.24,284
+12952,"United Kingdom",6058.36,340
+12953,"United Kingdom",1620.60,80
+12955,"United Kingdom",19584.64,736
+12956,"United Kingdom",511.88,84
+12957,"United Kingdom",18582.36,1072
+12962,"United Kingdom",1105.56,68
+12963,"United Kingdom",8568.32,440
+12965,"United Kingdom",3470.04,484
+12966,"United Kingdom",640.72,40
+12967,"United Kingdom",9182.00,107
+12968,"United Kingdom",543.80,20
+12970,"United Kingdom",2016.48,652
+12971,"United Kingdom",46417.80,1285
+12974,"United Kingdom",579.20,32
+12976,"United Kingdom",3666.40,96
+12977,"United Kingdom",156.96,36
+12980,"United Kingdom",33404.88,96
+12981,"United Kingdom",2707.60,128
+12982,"United Kingdom",1802.16,128
+12984,"United Kingdom",548.40,24
+12985,"United Kingdom",5097.68,316
+12987,"United Kingdom",2509.40,124
+12988,"United Kingdom",2251.88,384
+12989,"United Kingdom",29025.44,288
+12990,"United Kingdom",1721.20,56
+12991,"United Kingdom",3143.44,172
+12993,"United Kingdom",1857.84,120
+12994,"United Kingdom",4008.08,252
+12995,"United Kingdom",845.28,12
+12997,"United Kingdom",5935.00,276
+12999,"United Kingdom",1823.52,112
+13000,"United Kingdom",2667.40,148
+13001,"United Kingdom",41263.24,1440
+13002,"United Kingdom",642.60,40
+13003,"United Kingdom",1016.20,36
+13004,"United Kingdom",25739.28,1824
+13005,"United Kingdom",2354.80,108
+13006,"United Kingdom",326.28,16
+13008,"United Kingdom",1117.08,68
+13011,"United Kingdom",252.75,15
+13012,"United Kingdom",7642.36,404
+13013,"United Kingdom",22043.98,1026
+13014,"United Kingdom",14167.52,452
+13015,"United Kingdom",15817.40,828
+13016,"United Kingdom",3754.64,220
+13017,"United Kingdom",816.00,4
+13018,"United Kingdom",32567.12,2048
+13021,"United Kingdom",11000.32,556
+13023,"United Kingdom",2759.60,160
+13026,"United Kingdom",3937.92,164
+13027,"United Kingdom",27648.00,104
+13028,"United Kingdom",2877.28,196
+13029,"United Kingdom",4990.00,40
+13030,"United Kingdom",3738.12,456
+13032,"United Kingdom",4662.72,332
+13033,"United Kingdom",762.20,44
+13034,"United Kingdom",2790.44,160
+13035,"United Kingdom",3687.52,108
+13037,"United Kingdom",4616.28,244
+13038,"United Kingdom",3790.24,120
+13040,"United Kingdom",3066.76,192
+13043,"United Kingdom",2443.12,60
+13044,"United Kingdom",2450.44,152
+13045,"United Kingdom",1914.40,104
+13046,"United Kingdom",2643.24,148
+13047,"United Kingdom",15611.67,837
+13048,"United Kingdom",8039.64,592
+13049,"United Kingdom",3011.92,60
+13050,"United Kingdom",24458.72,1712
+13052,"United Kingdom",2000.48,92
+13055,"United Kingdom",6576.16,408
+13058,"United Kingdom",1224.60,44
+13059,"United Kingdom",757.20,36
+13060,"United Kingdom",1371.72,64
+13061,"United Kingdom",1639.44,64
+13062,"United Kingdom",2203.92,52
+13064,"United Kingdom",5193.16,296
+13065,"United Kingdom",1282.30,90
+13066,"United Kingdom",2369.60,244
+13067,"United Kingdom",524.04,68
+13068,"United Kingdom",1376.00,8
+13069,"United Kingdom",19158.01,1848
+13070,"United Kingdom",915.20,36
+13072,"United Kingdom",708.60,28
+13075,"United Kingdom",4473.64,104
+13077,"United Kingdom",3032.48,464
+13078,"United Kingdom",56867.36,1504
+13079,"United Kingdom",880.40,24
+13080,"United Kingdom",232.32,24
+13081,"United Kingdom",130715.80,4536
+13082,"United Kingdom",16357.76,348
+13083,"United Kingdom",1282.80,76
+13085,"United Kingdom",1664.32,88
+13089,"United Kingdom",267677.80,8346
+13090,"United Kingdom",36879.48,688
+13091,"United Kingdom",1383.28,84
+13092,"United Kingdom",1911.32,100
+13093,"United Kingdom",37664.68,742
+13094,"United Kingdom",10881.60,140
+13095,"United Kingdom",335.04,28
+13097,"United Kingdom",26172.88,1848
+13098,"United Kingdom",144854.40,2868
+13099,"United Kingdom",829.44,4
+13101,"United Kingdom",452.16,36
+13102,"United Kingdom",30357.56,1408
+13103,"United Kingdom",1114.96,40
+13104,"United Kingdom",5250.72,116
+13106,"United Kingdom",306.00,4
+13107,"United Kingdom",6527.28,244
+13108,"United Kingdom",1750.30,50
+13109,"United Kingdom",3665.76,220
+13110,"United Kingdom",7669.64,672
+13113,"United Kingdom",51602.56,860
+13115,"United Kingdom",10622.72,556
+13116,"United Kingdom",2615.36,152
+13117,"United Kingdom",4328.96,335
+13118,"United Kingdom",5365.40,356
+13120,"United Kingdom",122.40,4
+13121,"United Kingdom",1185.92,208
+13122,"United Kingdom",4025.08,244
+13124,"United Kingdom",17835.44,1064
+13126,"United Kingdom",9393.64,616
+13127,"United Kingdom",1196.88,68
+13130,"United Kingdom",256.00,8
+13131,"United Kingdom",4598.00,196
+13132,"United Kingdom",309.20,12
+13133,"United Kingdom",439.20,28
+13134,"United Kingdom",7814.72,424
+13135,"United Kingdom",24768.00,8
+13136,"United Kingdom",13961.24,656
+13137,"United Kingdom",17085.40,3280
+13138,"United Kingdom",4479.59,290
+13139,"United Kingdom",21877.16,748
+13140,"United Kingdom",1851.88,204
+13141,"United Kingdom",10702.92,592
+13142,"United Kingdom",1228.36,92
+13144,"United Kingdom",443.80,12
+13145,"United Kingdom",2769.08,25
+13146,"United Kingdom",915.64,68
+13147,"United Kingdom",2851.20,16
+13148,"United Kingdom",16541.36,1408
+13149,"United Kingdom",7103.12,364
+13151,"United Kingdom",5408.68,320
+13153,"United Kingdom",1944.88,60
+13155,"United Kingdom",4142.24,364
+13157,"United Kingdom",8165.12,404
+13158,"United Kingdom",5844.72,368
+13159,"United Kingdom",6658.96,540
+13160,"United Kingdom",531.60,24
+13161,"United Kingdom",545.40,36
+13162,"United Kingdom",7577.56,344
+13165,"United Kingdom",4085.92,168
+13166,"United Kingdom",1867.60,176
+13167,"United Kingdom",3868.48,300
+13168,"United Kingdom",6917.36,628
+13169,"United Kingdom",3249.92,64
+13170,"United Kingdom",464.04,128
+13171,"United Kingdom",2019.64,196
+13173,"United Kingdom",1670.40,192
+13174,"United Kingdom",12108.96,1328
+13176,"United Kingdom",2200.80,328
+13177,"United Kingdom",1446.60,84
+13178,"United Kingdom",28556.28,1284
+13182,"United Kingdom",526.72,48
+13183,"United Kingdom",18871.48,416
+13184,"United Kingdom",7354.96,792
+13185,"United Kingdom",571.20,8
+13186,"United Kingdom",6944.36,344
+13187,"United Kingdom",1007.68,152
+13188,"United Kingdom",856.80,12
+13189,"United Kingdom",1042.72,116
+13192,"United Kingdom",4292.76,292
+13193,"United Kingdom",542.92,140
+13194,"United Kingdom",242.80,12
+13196,"United Kingdom",8411.12,516
+13198,"United Kingdom",14436.16,956
+13199,"United Kingdom",47261.44,572
+13200,"United Kingdom",4038.04,208
+13203,"United Kingdom",4076.96,260
+13207,"United Kingdom",1001.04,32
+13208,"United Kingdom",5516.24,656
+13209,"United Kingdom",28565.28,1508
+13210,"United Kingdom",1473.92,92
+13211,"United Kingdom",5217.48,252
+13212,"United Kingdom",3662.08,656
+13213,"United Kingdom",6697.68,384
+13216,"United Kingdom",1334.96,20
+13217,"United Kingdom",3300.16,24
+13218,"United Kingdom",250.56,20
+13220,"United Kingdom",3791.96,100
+13221,"United Kingdom",3954.44,292
+13223,"United Kingdom",652.80,20
+13224,"United Kingdom",9737.56,492
+13225,"United Kingdom",29426.56,152
+13226,"United Kingdom",432.84,64
+13227,"United Kingdom",1030.80,36
+13228,"United Kingdom",1432.00,8
+13229,"United Kingdom",703.80,44
+13230,"United Kingdom",12040.76,2620
+13232,"United Kingdom",6209.76,920
+13233,"United Kingdom",2660.48,180
+13235,"United Kingdom",5612.56,304
+13236,"United Kingdom",3706.80,180
+13238,"United Kingdom",3218.92,144
+13239,"United Kingdom",1449.04,92
+13240,"United Kingdom",2855.40,292
+13242,"United Kingdom",1248.00,60
+13243,"United Kingdom",2917.08,264
+13244,"United Kingdom",549.16,120
+13245,"United Kingdom",2226.00,84
+13246,"United Kingdom",8294.72,608
+13247,"United Kingdom",2110.08,104
+13248,"United Kingdom",1862.72,104
+13249,"United Kingdom",4149.68,112
+13253,"United Kingdom",5043.20,152
+13255,"United Kingdom",2022.94,62
+13258,"United Kingdom",3387.48,172
+13259,"United Kingdom",1310.68,384
+13260,"United Kingdom",2230.48,32
+13261,"United Kingdom",3776.40,36
+13262,"United Kingdom",801.16,44
+13263,"United Kingdom",33978.52,7504
+13265,"United Kingdom",9419.76,392
+13266,"United Kingdom",18148.48,884
+13267,"United Kingdom",20678.88,976
+13268,"United Kingdom",13929.28,1908
+13269,"United Kingdom",25339.03,1480
+13270,"United Kingdom",2360.00,4
+13271,"United Kingdom",928.32,400
+13272,"United Kingdom",1177.04,64
+13273,"United Kingdom",775.04,76
+13276,"United Kingdom",3090.92,160
+13277,"United Kingdom",1033.60,32
+13278,"United Kingdom",2626.92,208
+13279,"United Kingdom",551.00,36
+13280,"United Kingdom",3684.24,368
+13282,"United Kingdom",4767.76,152
+13283,"United Kingdom",374.64,28
+13284,"United Kingdom",950.36,64
+13285,"United Kingdom",12994.68,892
+13291,"United Kingdom",1776.08,204
+13292,"United Kingdom",2315.76,124
+13294,"United Kingdom",3649.76,228
+13295,"United Kingdom",804.80,40
+13296,"United Kingdom",349.60,20
+13297,"United Kingdom",11131.00,332
+13298,"United Kingdom",1440.00,8
+13299,"United Kingdom",570.00,20
+13300,"United Kingdom",1987.56,104
+13301,"United Kingdom",3196.84,380
+13302,"United Kingdom",255.00,4
+13304,"United Kingdom",1201.68,84
+13305,"United Kingdom",8199.64,333
+13307,"United Kingdom",60.00,4
+13308,"United Kingdom",6664.36,240
+13309,"United Kingdom",6520.96,464
+13310,"United Kingdom",5038.72,324
+13311,"United Kingdom",2762.12,112
+13313,"United Kingdom",7862.88,388
+13314,"United Kingdom",3179.76,256
+13316,"United Kingdom",23998.12,356
+13317,"United Kingdom",11159.32,612
+13318,"United Kingdom",2882.40,104
+13319,"United Kingdom",53211.36,2392
+13320,"United Kingdom",7317.60,496
+13321,"United Kingdom",2656.32,52
+13322,"United Kingdom",797.92,100
+13323,"United Kingdom",3151.40,84
+13324,"United Kingdom",28487.80,300
+13325,"United Kingdom",3365.20,56
+13327,"United Kingdom",18303.88,528
+13328,"United Kingdom",5855.52,76
+13329,"United Kingdom",4255.20,96
+13330,"United Kingdom",5214.12,232
+13332,"United Kingdom",1403.60,84
+13334,"United Kingdom",16006.04,1196
+13336,"United Kingdom",4126.08,260
+13338,"United Kingdom",2092.68,84
+13339,"United Kingdom",3689.48,232
+13340,"United Kingdom",50774.00,664
+13341,"United Kingdom",3391.40,188
+13343,"United Kingdom",1624.92,88
+13344,"United Kingdom",10890.40,516
+13345,"United Kingdom",1558.00,80
+13347,"United Kingdom",1903.04,44
+13348,"United Kingdom",1092.24,68
+13349,"United Kingdom",1103.04,72
+13350,"United Kingdom",4070.68,168
+13351,"United Kingdom",2151.56,92
+13352,"United Kingdom",1731.12,104
+13354,"United Kingdom",3488.04,228
+13355,"United Kingdom",3879.20,156
+13356,"United Kingdom",4066.04,224
+13357,"United Kingdom",2571.20,380
+13358,"United Kingdom",1827.72,120
+13359,"United Kingdom",1898.64,100
+13362,"United Kingdom",13011.76,696
+13363,"United Kingdom",4063.60,248
+13364,"United Kingdom",739.04,56
+13365,"United Kingdom",9921.48,568
+13366,"United Kingdom",224.64,4
+13368,"United Kingdom",2553.60,120
+13369,"United Kingdom",1374.72,60
+13370,"United Kingdom",3900.35,200
+13372,"United Kingdom",1555.36,96
+13373,"United Kingdom",15908.28,756
+13375,"United Kingdom",3793.40,184
+13376,"United Kingdom",4572.64,232
+13379,"United Kingdom",2458.84,412
+13381,"United Kingdom",15933.64,756
+13382,"United Kingdom",962.76,64
+13384,"United Kingdom",18933.68,708
+13385,"United Kingdom",2229.24,148
+13388,"United Kingdom",3082.80,152
+13389,"United Kingdom",3261.44,208
+13390,"United Kingdom",2248.32,56
+13391,"United Kingdom",239.20,4
+13394,"United Kingdom",10605.12,660
+13395,"United Kingdom",1418.48,92
+13396,"United Kingdom",5841.88,188
+13397,"United Kingdom",7134.76,168
+13398,"United Kingdom",2022.56,112
+13402,"United Kingdom",3164.60,186
+13403,"United Kingdom",480.00,16
+13404,"United Kingdom",1069.96,48
+13405,"United Kingdom",2289.80,104
+13408,"United Kingdom",137206.72,2261
+13410,"United Kingdom",4410.64,120
+13411,"United Kingdom",1070.80,84
+13414,"United Kingdom",5912.40,108
+13416,"United Kingdom",2850.00,76
+13417,"United Kingdom",2792.52,124
+13418,"United Kingdom",30473.86,1477
+13419,"United Kingdom",1027.04,72
+13420,"United Kingdom",681.40,36
+13421,"United Kingdom",8949.12,456
+13422,"United Kingdom",12654.88,612
+13425,"United Kingdom",7501.24,364
+13426,"United Kingdom",16808.44,684
+13427,"United Kingdom",2436.00,124
+13428,"United Kingdom",959.00,328
+13429,"United Kingdom",4102.08,272
+13430,"United Kingdom",3236.20,220
+13431,"United Kingdom",7170.72,256
+13434,"United Kingdom",2460.96,52
+13435,"United Kingdom",21549.36,504
+13436,"United Kingdom",976.92,60
+13437,"United Kingdom",15102.52,736
+13439,"United Kingdom",1185.60,228
+13441,"United Kingdom",1252.96,56
+13447,"United Kingdom",5612.24,284
+13448,"United Kingdom",15806.04,892
+13449,"United Kingdom",1258.48,84
+13450,"United Kingdom",8174.88,284
+13451,"United Kingdom",13753.88,2000
+13452,"United Kingdom",2360.00,8
+13453,"United Kingdom",1547.92,72
+13455,"United Kingdom",4850.36,204
+13456,"United Kingdom",8413.24,280
+13458,"United Kingdom",45506.44,1768
+13460,"United Kingdom",817.76,76
+13461,"United Kingdom",6279.20,124
+13462,"United Kingdom",764.40,44
+13464,"United Kingdom",3000.52,180
+13466,"United Kingdom",1375.60,76
+13467,"United Kingdom",4639.92,424
+13468,"United Kingdom",27447.17,1421
+13470,"United Kingdom",792.00,48
+13471,"United Kingdom",11216.92,1140
+13473,"United Kingdom",1690.56,84
+13474,"United Kingdom",952.56,268
+13475,"United Kingdom",6383.52,384
+13476,"United Kingdom",5214.28,248
+13477,"United Kingdom",6539.16,356
+13479,"United Kingdom",1441.80,72
+13481,"United Kingdom",8932.48,524
+13482,"United Kingdom",738.56,44
+13483,"United Kingdom",561.36,40
+13484,"United Kingdom",1255.20,32
+13485,"United Kingdom",2005.92,100
+13486,"United Kingdom",5463.72,332
+13487,"United Kingdom",3056.40,180
+13488,"United Kingdom",43286.92,2000
+13489,"United Kingdom",2454.24,76
+13491,"United Kingdom",5241.18,368
+13492,"Switzerland",5739.36,228
+13493,"Switzerland",2474.52,32
+13494,"United Kingdom",1265.04,72
+13495,"United Kingdom",9432.84,232
+13496,"United Kingdom",2733.32,148
+13497,"United Kingdom",1452.20,80
+13499,"United Kingdom",4898.52,180
+13500,"United Kingdom",5572.48,304
+13501,"Switzerland",6095.68,216
+13502,"United Kingdom",1213.60,76
+13503,"United Kingdom",1095.40,88
+13504,"United Kingdom",1362.56,104
+13505,"Switzerland",19735.04,964
+13506,"United Kingdom",2135.20,121
+13507,"United Kingdom",11201.48,716
+13508,"United Kingdom",443.88,48
+13509,"United Kingdom",4190.24,188
+13510,"United Kingdom",8731.60,544
+13512,"United Kingdom",1124.84,64
+13513,"United Kingdom",910.00,48
+13514,"United Kingdom",608.80,16
+13515,"United Kingdom",4211.28,268
+13516,"United Kingdom",5937.92,200
+13517,"United Kingdom",9136.28,600
+13518,"United Kingdom",2817.36,164
+13519,"United Kingdom",541.40,36
+13520,"Switzerland",16272.16,438
+13521,"United Kingdom",4867.52,1900
+13522,"United Kingdom",503.20,20
+13523,"United Kingdom",17650.72,756
+13524,"United Kingdom",3445.12,140
+13525,"United Kingdom",2875.12,32
+13527,"United Kingdom",10566.80,1020
+13529,"United Kingdom",1563.04,80
+13531,"United Kingdom",1935.20,88
+13532,"United Kingdom",940.84,288
+13533,"United Kingdom",1146.96,320
+13534,"United Kingdom",27053.72,1348
+13536,"United Kingdom",16522.28,844
+13538,"United Kingdom",5123.40,100
+13539,"United Kingdom",2838.16,160
+13544,"United Kingdom",1377.04,392
+13546,"United Kingdom",2715.36,420
+13548,"United Kingdom",3125.68,536
+13549,"United Kingdom",4026.80,224
+13551,"United Kingdom",367.20,16
+13552,"United Kingdom",17835.48,516
+13555,"United Kingdom",18076.96,584
+13557,"United Kingdom",2638.64,148
+13558,"United Kingdom",2688.28,780
+13560,"United Kingdom",697.48,132
+13561,"United Kingdom",893.84,60
+13562,"United Kingdom",8842.92,384
+13563,"United Kingdom",3212.32,204
+13564,"United Kingdom",7155.28,340
+13565,"United Kingdom",1018.68,160
+13566,"United Kingdom",3980.76,780
+13568,"United Kingdom",911.60,204
+13569,"United Kingdom",1703.24,388
+13570,"United Kingdom",1008.76,124
+13571,"United Kingdom",9956.88,1540
+13572,"United Kingdom",5876.60,148
+13573,"United Kingdom",1462.80,132
+13575,"United Kingdom",2928.28,184
+13576,"United Kingdom",29884.39,563
+13577,"United Kingdom",7543.40,380
+13579,"United Kingdom",2095.92,100
+13581,"United Kingdom",542.80,44
+13583,"United Kingdom",3702.12,244
+13584,"United Kingdom",569.60,96
+13587,"United Kingdom",2849.60,32
+13588,"United Kingdom",10667.96,740
+13589,"United Kingdom",1654.20,96
+13590,"United Kingdom",8934.88,404
+13591,"United Kingdom",5169.72,268
+13592,"United Kingdom",1059.64,68
+13593,"United Kingdom",9122.32,580
+13594,"United Kingdom",1709.08,112
+13596,"United Kingdom",3196.12,736
+13598,"United Kingdom",810.44,188
+13599,"United Kingdom",23889.60,1152
+13600,"United Kingdom",878.08,76
+13601,"United Kingdom",3428.08,456
+13602,"United Kingdom",2484.76,132
+13603,"United Kingdom",912.32,128
+13606,"United Kingdom",1384.08,196
+13607,"United Kingdom",3242.16,444
+13610,"United Kingdom",5531.76,1080
+13611,"United Kingdom",5142.60,324
+13614,"United Kingdom",7816.84,896
+13615,"United Kingdom",1670.76,92
+13617,"United Kingdom",2498.52,192
+13618,"United Kingdom",745.84,56
+13621,"United Kingdom",895.40,80
+13623,"United Kingdom",3134.84,344
+13626,"United Kingdom",1028.92,76
+13627,"United Kingdom",7070.32,396
+13629,"United Kingdom",35821.28,276
+13630,"United Kingdom",9910.52,336
+13631,"United Kingdom",12281.68,44
+13632,"United Kingdom",9344.24,628
+13634,"United Kingdom",6895.20,820
+13635,"United Kingdom",4951.56,284
+13636,"United Kingdom",3867.28,256
+13637,"United Kingdom",3616.40,444
+13638,"United Kingdom",490.56,32
+13639,"United Kingdom",4598.40,188
+13642,"United Kingdom",1457.80,280
+13643,"United Kingdom",2322.16,124
+13644,"United Kingdom",11895.84,656
+13645,"United Kingdom",1454.80,28
+13647,"United Kingdom",8399.28,364
+13649,"United Kingdom",1386.40,92
+13650,"United Kingdom",9137.92,480
+13651,"United Kingdom",436.80,28
+13652,"United Kingdom",4866.32,284
+13654,"United Kingdom",12272.08,752
+13655,"United Kingdom",4343.48,248
+13656,"United Kingdom",1552.60,200
+13657,"United Kingdom",1622.16,68
+13658,"United Kingdom",11185.48,456
+13659,"United Kingdom",6746.20,452
+13662,"United Kingdom",3909.04,236
+13663,"United Kingdom",811.00,56
+13666,"United Kingdom",420.20,52
+13667,"United Kingdom",1302.20,368
+13668,"United Kingdom",27514.64,2052
+13669,"United Kingdom",874.20,36
+13670,"United Kingdom",1970.40,128
+13672,"United Kingdom",745.56,24
+13673,"United Kingdom",1705.24,276
+13675,"United Kingdom",2118.88,108
+13678,"United Kingdom",930.40,64
+13680,"United Kingdom",18461.32,864
+13681,"United Kingdom",3570.92,252
+13682,"United Kingdom",238.00,12
+13684,"United Kingdom",268.92,120
+13685,"United Kingdom",12482.76,160
+13686,"United Kingdom",322.00,36
+13689,"United Kingdom",3640.00,24
+13690,"United Kingdom",689.00,36
+13692,"United Kingdom",6160.40,232
+13694,"United Kingdom",280361.12,2426
+13695,"United Kingdom",10968.60,396
+13697,"United Kingdom",706.00,56
+13699,"United Kingdom",1234.32,56
+13700,"United Kingdom",9677.28,832
+13703,"United Kingdom",1194.00,12
+13704,"United Kingdom",10567.64,608
+13705,"United Kingdom",3324.18,131
+13706,"United Kingdom",1402.36,84
+13707,"United Kingdom",3266.44,196
+13708,"United Kingdom",1372.52,228
+13709,"United Kingdom",29833.88,1560
+13710,"United Kingdom",796.80,36
+13711,"United Kingdom",1079.04,56
+13712,"United Kingdom",915.36,40
+13715,"United Kingdom",4983.81,467
+13716,"United Kingdom",627.72,96
+13717,"United Kingdom",5973.96,424
+13718,"United Kingdom",1286.20,52
+13719,"United Kingdom",4966.32,276
+13720,"United Kingdom",3338.80,180
+13721,"United Kingdom",2520.16,128
+13722,"United Kingdom",10238.04,368
+13723,"United Kingdom",918.40,28
+13725,"United Kingdom",8399.04,436
+13726,"United Kingdom",4384.64,172
+13727,"United Kingdom",1457.92,88
+13728,"United Kingdom",4454.32,276
+13730,"United Kingdom",3544.40,200
+13731,"United Kingdom",2502.36,156
+13732,"United Kingdom",2057.44,136
+13735,"United Kingdom",13252.20,912
+13736,"United Kingdom",3184.00,812
+13737,"United Kingdom",1443.00,128
+13739,"United Kingdom",867.60,12
+13740,"United Kingdom",1477.88,96
+13741,"United Kingdom",2793.72,144
+13742,"United Kingdom",13481.20,1376
+13743,"United Kingdom",5841.60,180
+13744,"United Kingdom",4625.44,288
+13745,"United Kingdom",1260.64,104
+13747,"United Kingdom",398.00,5
+13748,"United Kingdom",4309.00,129
+13750,"United Kingdom",6655.04,100
+13751,"United Kingdom",1185.00,36
+13752,"United Kingdom",5565.44,324
+13753,"United Kingdom",3173.84,160
+13754,"United Kingdom",1567.20,64
+13755,"United Kingdom",10036.48,1528
+13756,"United Kingdom",22928.88,644
+13758,"United Kingdom",15157.69,550
+13759,"United Kingdom",2760.04,108
+13760,"United Kingdom",1244.76,244
+13761,"United Kingdom",5704.48,360
+13762,"United Kingdom",1346.88,32
+13763,"United Kingdom",6859.84,60
+13764,"United Kingdom",6667.60,908
+13767,"United Kingdom",71499.28,1543
+13769,"United Kingdom",14810.76,636
+13771,"United Kingdom",12310.20,544
+13772,"United Kingdom",5676.76,860
+13774,"United Kingdom",1821.60,112
+13777,"United Kingdom",133001.68,979
+13778,"United Kingdom",815.60,40
+13780,"United Kingdom",1662.32,264
+13781,"United Kingdom",548.56,76
+13782,"United Kingdom",4252.64,524
+13784,"United Kingdom",9851.16,124
+13786,"United Kingdom",1248.00,32
+13787,"United Kingdom",1296.16,128
+13790,"United Kingdom",1395.20,180
+13791,"United Kingdom",6780.00,48
+13792,"United Kingdom",1014.40,68
+13798,"United Kingdom",177755.08,1606
+13799,"United Kingdom",3017.04,172
+13800,"United Kingdom",2233.28,132
+13801,"United Kingdom",1299.20,92
+13802,"United Kingdom",22774.16,276
+13803,"United Kingdom",1108.28,68
+13804,"United Kingdom",12373.48,632
+13805,"United Kingdom",3698.40,52
+13806,"United Kingdom",1096.32,44
+13807,"United Kingdom",510.40,32
+13808,"United Kingdom",8322.88,364
+13809,"Cyprus",820.80,60
+13810,"Germany",6174.24,144
+13811,"Germany",3258.00,52
+13812,"Germany",2323.20,156
+13813,"Germany",6257.04,316
+13814,"Germany",7744.72,296
+13815,"Germany",18200.40,800
+13816,"Germany",2813.16,140
+13817,"Germany",1531.92,96
+13819,"United Kingdom",5156.60,156
+13821,"United Kingdom",1573.96,244
+13822,"United Kingdom",2696.40,432
+13823,"United Kingdom",3931.44,164
+13824,"United Kingdom",7593.76,208
+13826,"United Kingdom",917.20,48
+13827,"United Kingdom",1837.16,412
+13828,"United Kingdom",970.76,68
+13831,"United Kingdom",14736.56,359
+13832,"United Kingdom",208.80,12
+13833,"United Kingdom",1638.80,124
+13835,"United Kingdom",3625.08,236
+13837,"United Kingdom",1178.36,84
+13838,"United Kingdom",3289.78,817
+13841,"United Kingdom",340.00,4
+13842,"United Kingdom",14767.96,888
+13844,"United Kingdom",1682.24,92
+13845,"United Kingdom",1358.16,40
+13846,"United Kingdom",3823.24,240
+13848,"United Kingdom",5020.00,20
+13849,"United Kingdom",6917.40,452
+13850,"United Kingdom",7623.20,440
+13851,"United Kingdom",11494.88,364
+13853,"United Kingdom",4738.96,100
+13854,"United Kingdom",34400.48,476
+13856,"United Kingdom",1554.00,56
+13858,"United Kingdom",986.48,52
+13859,"United Kingdom",999.84,132
+13860,"United Kingdom",5514.48,336
+13862,"United Kingdom",10086.88,620
+13863,"United Kingdom",1223.12,80
+13865,"United Kingdom",2131.64,128
+13866,"United Kingdom",841.88,40
+13867,"United Kingdom",4635.96,280
+13868,"United Kingdom",13177.44,152
+13869,"United Kingdom",13787.64,1336
+13870,"United Kingdom",12293.20,524
+13871,"United Kingdom",30163.08,1632
+13873,"United Kingdom",1782.08,104
+13874,"United Kingdom",2488.20,76
+13875,"United Kingdom",9204.84,516
+13876,"United Kingdom",744.40,40
+13877,"United Kingdom",468.96,12
+13878,"United Kingdom",5233.52,148
+13880,"United Kingdom",13977.72,712
+13881,"United Kingdom",74015.28,784
+13882,"United Kingdom",5577.92,300
+13883,"United Kingdom",11836.40,616
+13884,"United Kingdom",3928.20,280
+13885,"United Kingdom",2414.00,132
+13886,"United Kingdom",1034.24,68
+13887,"United Kingdom",1517.00,80
+13888,"United Kingdom",2655.60,176
+13889,"United Kingdom",1727.60,64
+13890,"United Kingdom",8460.24,480
+13892,"United Kingdom",2531.88,108
+13893,"United Kingdom",3550.00,100
+13894,"United Kingdom",2389.28,116
+13895,"United Kingdom",15381.56,644
+13897,"United Kingdom",1573.20,88
+13898,"United Kingdom",683.72,52
+13899,"United Kingdom",1626.08,80
+13900,"United Kingdom",3318.48,192
+13901,"United Kingdom",12387.04,640
+13904,"United Kingdom",1330.56,104
+13908,"United Kingdom",10191.56,528
+13911,"United Kingdom",10671.24,612
+13914,"United Kingdom",3147.40,164
+13917,"United Kingdom",1128.96,76
+13918,"United Kingdom",5088.96,132
+13919,"Denmark",1607.04,116
+13922,"United Kingdom",879.80,36
+13923,"United Kingdom",1547.08,88
+13924,"United Kingdom",8227.32,520
+13925,"United Kingdom",3222.00,196
+13926,"United Kingdom",895.40,44
+13927,"United Kingdom",1595.16,96
+13928,"United Kingdom",2059.28,116
+13929,"United Kingdom",3441.40,40
+13930,"United Kingdom",1349.36,68
+13931,"United Kingdom",5799.08,280
+13932,"United Kingdom",1352.00,68
+13933,"United Kingdom",3023.04,124
+13934,"United Kingdom",3760.40,128
+13936,"United Kingdom",1575.92,108
+13937,"United Kingdom",635.40,36
+13938,"United Kingdom",286.64,28
+13939,"United Kingdom",2353.40,184
+13940,"United Kingdom",3438.16,204
+13941,"United Kingdom",23644.56,212
+13946,"United Kingdom",2774.28,48
+13947,"United Kingdom",362.40,20
+13948,"United Kingdom",408.00,12
+13949,"United Kingdom",10689.56,704
+13950,"United Kingdom",3689.44,168
+13951,"United Kingdom",3003.80,176
+13952,"United Kingdom",13595.32,576
+13953,"United Kingdom",14062.72,80
+13954,"United Kingdom",2184.28,116
+13955,"United Kingdom",1417.24,148
+13956,"United Kingdom",4369.28,656
+13959,"United Kingdom",2422.40,376
+13960,"United Kingdom",961.68,52
+13962,"United Kingdom",749.80,48
+13963,"United Kingdom",2778.16,144
+13967,"United Kingdom",322.80,8
+13969,"United Kingdom",43987.76,2916
+13971,"United Kingdom",13834.72,728
+13972,"United Kingdom",761.00,60
+13973,"United Kingdom",1120.00,48
+13974,"United Kingdom",1774.36,120
+13975,"United Kingdom",11407.00,1500
+13976,"United Kingdom",1769.36,48
+13978,"United Kingdom",787.16,60
+13979,"United Kingdom",4268.60,264
+13980,"United Kingdom",800.56,44
+13982,"United Kingdom",9029.64,484
+13983,"United Kingdom",10872.72,460
+13984,"United Kingdom",3802.04,68
+13985,"United Kingdom",34918.28,1704
+13986,"United Kingdom",1281.84,52
+13988,"United Kingdom",18991.68,1080
+13989,"United Kingdom",5159.52,168
+13990,"United Kingdom",1504.80,80
+13991,"United Kingdom",3795.40,360
+13992,"United Kingdom",307.20,20
+13993,"United Kingdom",14587.84,512
+13994,"United Kingdom",11202.40,740
+13995,"United Kingdom",6955.56,424
+13999,"United Kingdom",20015.72,1044
+14000,"United Kingdom",2542.64,60
+14001,"United Kingdom",9887.00,185
+14002,"United Kingdom",2186.72,192
+14004,"United Kingdom",22364.24,808
+14005,"United Kingdom",12250.08,356
+14006,"United Kingdom",5710.04,148
+14009,"United Kingdom",3419.04,204
+14012,"United Kingdom",1315.20,44
+14013,"United Kingdom",2314.16,160
+14014,"United Kingdom",2320.64,176
+14015,"United Kingdom",4778.16,100
+14016,"EIRE",18693.08,708
+14019,"United Kingdom",7290.60,332
+14020,"United Kingdom",2792.00,168
+14021,"United Kingdom",2868.40,96
+14022,"United Kingdom",2106.80,128
+14023,"United Kingdom",2377.08,128
+14024,"United Kingdom",1686.60,84
+14027,"United Kingdom",419.28,24
+14029,"United Kingdom",1870.64,60
+14030,"United Kingdom",9935.12,1044
+14031,"United Kingdom",74620.69,1111
+14032,"United Kingdom",13263.48,652
+14034,"United Kingdom",2979.04,400
+14035,"United Kingdom",6857.48,300
+14036,"United Kingdom",2687.80,164
+14037,"United Kingdom",588.80,112
+14038,"United Kingdom",8169.20,476
+14039,"United Kingdom",807.20,36
+14040,"United Kingdom",16995.36,1056
+14041,"United Kingdom",628.84,96
+14044,"United Kingdom",3016.80,968
+14045,"United Kingdom",9576.60,34
+14046,"United Kingdom",649.96,60
+14047,"United Kingdom",6033.76,149
+14048,"United Kingdom",1786.12,356
+14049,"United Kingdom",25025.08,2140
+14050,"United Kingdom",3056.24,220
+14051,"United Kingdom",69147.36,924
+14052,"United Kingdom",915.44,240
+14053,"United Kingdom",1041.00,16
+14054,"United Kingdom",541.68,36
+14055,"United Kingdom",2902.56,40
+14056,"United Kingdom",39173.28,5332
+14057,"United Kingdom",27106.76,1228
+14059,"United Kingdom",892.80,40
+14060,"United Kingdom",26264.72,860
+14062,"United Kingdom",47142.76,496
+14064,"United Kingdom",5871.92,336
+14066,"United Kingdom",610.20,28
+14067,"United Kingdom",1565.56,228
+14068,"United Kingdom",1240.40,104
+14071,"United Kingdom",6385.88,1416
+14073,"United Kingdom",764.96,64
+14075,"United Kingdom",4337.84,192
+14076,"United Kingdom",489.88,184
+14077,"United Kingdom",2301.60,204
+14078,"United Kingdom",4472.20,285
+14079,"United Kingdom",1559.00,56
+14080,"United Kingdom",182.40,16
+14081,"United Kingdom",3908.44,652
+14082,"United Kingdom",772.80,124
+14083,"United Kingdom",4803.11,833
+14085,"United Kingdom",19435.48,1956
+14087,"United Kingdom",800.88,284
+14088,"United Kingdom",224483.64,2624
+14089,"United Kingdom",728.00,68
+14090,"United Kingdom",610.56,8
+14092,"United Kingdom",18411.64,964
+14093,"United Kingdom",1771.40,420
+14096,"United Kingdom",277224.64,21816
+14098,"United Kingdom",589.40,84
+14099,"United Kingdom",13596.52,1092
+14100,"United Kingdom",874.40,120
+14101,"United Kingdom",31287.16,160
+14102,"United Kingdom",5714.72,336
+14104,"United Kingdom",898.12,92
+14105,"United Kingdom",5547.32,328
+14107,"United Kingdom",11081.72,508
+14108,"United Kingdom",2505.96,144
+14109,"United Kingdom",636.80,40
+14110,"United Kingdom",25400.68,680
+14111,"United Kingdom",3275.40,44
+14112,"United Kingdom",13795.40,748
+14113,"United Kingdom",7656.88,152
+14114,"United Kingdom",1546.12,60
+14116,"United Kingdom",6309.36,332
+14117,"United Kingdom",480.00,16
+14121,"United Kingdom",12246.76,700
+14124,"United Kingdom",1678.32,20
+14125,"United Kingdom",12693.64,768
+14126,"United Kingdom",2966.12,64
+14127,"United Kingdom",3046.04,188
+14128,"United Kingdom",2710.80,196
+14129,"United Kingdom",6191.44,288
+14130,"United Kingdom",2009.08,280
+14132,"United Kingdom",15054.52,832
+14133,"United Kingdom",3020.96,140
+14135,"United Kingdom",20184.29,608
+14138,"United Kingdom",4243.92,204
+14139,"United Kingdom",1908.08,108
+14140,"United Kingdom",3860.20,272
+14141,"United Kingdom",4498.12,188
+14142,"United Kingdom",1751.05,120
+14143,"United Kingdom",531.20,32
+14145,"United Kingdom",14968.80,44
+14146,"United Kingdom",18859.40,924
+14147,"United Kingdom",2260.00,24
+14148,"United Kingdom",628.80,12
+14149,"United Kingdom",1847.68,116
+14150,"United Kingdom",2854.56,112
+14152,"United Kingdom",2519.16,200
+14154,"United Kingdom",5526.48,220
+14155,"United Kingdom",475.00,24
+14156,"EIRE",549656.04,6355
+14157,"United Kingdom",1731.52,192
+14158,"United Kingdom",2312.16,184
+14159,"United Kingdom",22070.92,5384
+14161,"United Kingdom",5605.13,503
+14162,"United Kingdom",1255.04,108
+14163,"United Kingdom",10024.92,224
+14164,"United Kingdom",6719.08,124
+14165,"United Kingdom",576.56,120
+14167,"United Kingdom",2311.16,212
+14171,"United Kingdom",1627.72,276
+14173,"United Kingdom",1947.16,124
+14174,"United Kingdom",630.40,124
+14175,"United Kingdom",14354.28,668
+14176,"United Kingdom",2968.80,152
+14177,"United Kingdom",2585.24,188
+14178,"United Kingdom",6976.04,1384
+14179,"United Kingdom",3467.36,768
+14180,"United Kingdom",19949.38,1013
+14184,"United Kingdom",2138.36,112
+14185,"United Kingdom",790.60,12
+14188,"United Kingdom",11971.84,380
+14189,"United Kingdom",19660.00,1108
+14191,"United Kingdom",20528.36,1152
+14193,"United Kingdom",3573.76,176
+14194,"United Kingdom",54188.56,2712
+14195,"United Kingdom",4048.00,28
+14196,"United Kingdom",2321.28,32
+14198,"United Kingdom",3530.00,200
+14199,"United Kingdom",741.60,8
+14201,"United Kingdom",3279.76,164
+14204,"United Kingdom",747.28,196
+14205,"United Kingdom",1998.80,100
+14206,"United Kingdom",1394.24,84
+14208,"United Kingdom",678.56,44
+14209,"United Kingdom",10144.12,388
+14210,"United Kingdom",8408.31,443
+14211,"United Kingdom",10294.96,504
+14212,"United Kingdom",4281.92,36
+14214,"United Kingdom",4405.92,292
+14215,"United Kingdom",7523.44,452
+14216,"United Kingdom",9073.36,272
+14217,"United Kingdom",8404.72,420
+14218,"United Kingdom",789.52,56
+14219,"United Kingdom",359.76,28
+14220,"United Kingdom",2529.60,84
+14221,"United Kingdom",15664.96,908
+14222,"United Kingdom",3041.08,184
+14223,"United Kingdom",4074.92,248
+14224,"United Kingdom",4462.28,512
+14226,"United Kingdom",9922.16,308
+14227,"United Kingdom",15059.80,772
+14229,"United Kingdom",6188.80,160
+14231,"United Kingdom",4036.36,216
+14232,"United Kingdom",8643.96,492
+14233,"United Kingdom",6527.68,160
+14234,"United Kingdom",3333.24,680
+14235,"United Kingdom",15078.44,380
+14236,"United Kingdom",2997.54,72
+14237,"United Kingdom",805.00,45
+14238,"United Kingdom",677.40,36
+14239,"United Kingdom",10299.40,492
+14240,"United Kingdom",4002.56,196
+14241,"United Kingdom",914.80,44
+14242,"United Kingdom",1263.80,72
+14243,"United Kingdom",11155.16,612
+14245,"United Kingdom",7073.72,456
+14246,"United Kingdom",6115.24,312
+14247,"United Kingdom",744.68,96
+14248,"United Kingdom",1210.32,32
+14250,"United Kingdom",8485.36,492
+14251,"United Kingdom",11518.80,312
+14256,"United Kingdom",4219.52,228
+14257,"United Kingdom",14752.08,512
+14258,"United Kingdom",59266.40,532
+14259,"United Kingdom",480.00,20
+14261,"United Kingdom",5077.48,232
+14262,"United Kingdom",11880.92,652
+14264,"United Kingdom",1445.28,76
+14265,"Unspecified",2253.12,132
+14267,"United Kingdom",7650.56,268
+14270,"United Kingdom",2065.80,120
+14271,"United Kingdom",580.08,48
+14272,"United Kingdom",1785.84,136
+14273,"United Kingdom",2384.28,124
+14276,"United Kingdom",6175.84,336
+14277,"France",20148.00,1036
+14280,"United Kingdom",536.16,32
+14282,"United Kingdom",18271.76,768
+14284,"United Kingdom",2381.00,128
+14285,"United Kingdom",7663.64,112
+14286,"United Kingdom",20542.04,1228
+14287,"United Kingdom",706.52,36
+14288,"United Kingdom",1706.40,64
+14289,"United Kingdom",3774.64,196
+14290,"United Kingdom",10749.60,476
+14291,"United Kingdom",18415.36,1108
+14292,"United Kingdom",21742.64,488
+14293,"United Kingdom",4618.96,268
+14295,"United Kingdom",765.60,24
+14297,"United Kingdom",5633.40,264
+14298,"United Kingdom",225286.16,7152
+14299,"United Kingdom",18294.56,688
+14300,"United Kingdom",172.80,12
+14301,"United Kingdom",2865.84,56
+14304,"United Kingdom",1533.80,68
+14305,"United Kingdom",8945.44,500
+14306,"United Kingdom",9617.84,148
+14307,"United Kingdom",14354.81,855
+14309,"United Kingdom",9973.32,500
+14311,"United Kingdom",1311.84,84
+14312,"United Kingdom",7324.36,388
+14314,"United Kingdom",480.00,32
+14315,"United Kingdom",10729.52,436
+14317,"United Kingdom",2217.92,108
+14320,"United Kingdom",2344.36,144
+14321,"United Kingdom",6299.16,504
+14323,"United Kingdom",2486.24,148
+14326,"United Kingdom",795.40,36
+14327,"United Kingdom",1738.60,64
+14329,"United Kingdom",23260.40,1184
+14331,"United Kingdom",1901.04,116
+14332,"United Kingdom",4276.80,120
+14333,"United Kingdom",2181.40,80
+14334,"United Kingdom",11030.04,704
+14335,"Germany",1954.52,268
+14336,"United Kingdom",7481.00,404
+14338,"United Kingdom",2690.68,140
+14339,"United Kingdom",1238.08,56
+14340,"United Kingdom",538.80,24
+14341,"United Kingdom",10200.36,608
+14342,"United Kingdom",2743.60,88
+14344,"United Kingdom",4189.32,320
+14345,"United Kingdom",435.92,24
+14346,"United Kingdom",4270.32,252
+14348,"United Kingdom",1788.28,80
+14349,"United Kingdom",575.84,140
+14350,"United Kingdom",1352.52,80
+14351,"United Kingdom",204.00,4
+14352,"United Kingdom",4735.84,208
+14353,"United Kingdom",362.40,24
+14354,"United Kingdom",654.48,36
+14355,"United Kingdom",697.60,44
+14356,"United Kingdom",3073.72,148
+14357,"United Kingdom",950.12,172
+14359,"United Kingdom",3955.88,236
+14360,"United Kingdom",9678.52,528
+14362,"United Kingdom",712.00,172
+14364,"United Kingdom",18946.60,332
+14367,"United Kingdom",43326.92,2376
+14368,"United Kingdom",620.00,32
+14371,"United Kingdom",402.00,16
+14373,"United Kingdom",347.00,20
+14375,"United Kingdom",1096.32,316
+14377,"United Kingdom",2708.20,48
+14379,"United Kingdom",1604.72,208
+14381,"United Kingdom",927.72,256
+14382,"United Kingdom",2784.44,556
+14383,"United Kingdom",5306.96,252
+14385,"United Kingdom",808.44,56
+14386,"United Kingdom",569.60,28
+14387,"United Kingdom",7731.84,624
+14388,"United Kingdom",16053.84,915
+14389,"United Kingdom",4854.24,216
+14390,"United Kingdom",21958.11,1387
+14393,"United Kingdom",490.40,36
+14395,"United Kingdom",15654.02,1543
+14396,"United Kingdom",2464.11,368
+14397,"United Kingdom",12289.44,428
+14400,"United Kingdom",3137.36,120
+14401,"United Kingdom",19124.80,812
+14403,"United Kingdom",5962.64,84
+14404,"United Kingdom",6419.28,428
+14406,"United Kingdom",872.40,44
+14407,"United Kingdom",11465.92,324
+14408,"United Kingdom",12923.32,512
+14409,"United Kingdom",8635.00,236
+14410,"United Kingdom",4575.48,816
+14411,"United Kingdom",4730.40,64
+14412,"United Kingdom",3517.72,200
+14413,"United Kingdom",490.80,92
+14414,"United Kingdom",5987.92,388
+14415,"United Kingdom",28390.40,2772
+14416,"United Kingdom",2022.08,60
+14418,"United Kingdom",8777.28,548
+14419,"United Kingdom",5173.64,992
+14420,"United Kingdom",1866.88,132
+14421,"United Kingdom",3945.44,116
+14422,"United Kingdom",19113.76,996
+14423,"United Kingdom",2040.00,20
+14424,"United Kingdom",1288.32,4
+14426,"United Kingdom",20617.32,992
+14427,"United Kingdom",1832.56,80
+14428,"United Kingdom",5713.12,680
+14431,"United Kingdom",2003.84,72
+14432,"United Kingdom",10558.44,1712
+14434,"United Kingdom",5491.20,48
+14436,"United Kingdom",406.24,40
+14437,"United Kingdom",352.80,28
+14438,"United Kingdom",605.60,40
+14439,"Greece",11440.16,136
+14440,"United Kingdom",10480.72,236
+14441,"United Kingdom",7235.08,212
+14442,"Channel Islands",6789.48,276
+14443,"United Kingdom",6644.76,432
+14446,"United Kingdom",4938.00,1332
+14447,"United Kingdom",6078.92,356
+14448,"United Kingdom",1768.40,100
+14449,"United Kingdom",4194.10,1192
+14450,"United Kingdom",2307.56,188
+14451,"United Kingdom",3075.04,500
+14452,"United Kingdom",1224.00,288
+14453,"United Kingdom",665.52,116
+14456,"United Kingdom",13839.84,4288
+14457,"United Kingdom",454.56,16
+14459,"United Kingdom",7722.48,156
+14460,"United Kingdom",1737.36,64
+14461,"United Kingdom",9605.96,808
+14462,"United Kingdom",8635.32,1008
+14463,"United Kingdom",2118.48,24
+14465,"United Kingdom",4340.28,540
+14466,"United Kingdom",10095.75,326
+14467,"United Kingdom",2694.84,404
+14470,"United Kingdom",1916.16,176
+14472,"United Kingdom",8643.04,1264
+14473,"United Kingdom",937.36,28
+14474,"United Kingdom",2260.00,120
+14475,"United Kingdom",4257.40,200
+14476,"United Kingdom",975.80,84
+14477,"United Kingdom",5238.40,40
+14479,"United Kingdom",1376.60,80
+14480,"United Kingdom",1116.20,52
+14481,"United Kingdom",2824.44,132
+14482,"United Kingdom",9860.52,652
+14483,"United Kingdom",684.00,44
+14484,"United Kingdom",1579.28,72
+14485,"United Kingdom",754.20,208
+14487,"United Kingdom",5430.00,656
+14488,"United Kingdom",5512.64,200
+14489,"United Kingdom",2126.32,140
+14491,"United Kingdom",1724.92,77
+14493,"United Kingdom",11330.64,548
+14494,"United Kingdom",598.08,32
+14495,"United Kingdom",661.60,32
+14496,"United Kingdom",2459.58,81
+14497,"United Kingdom",2023.88,124
+14498,"United Kingdom",8640.28,840
+14499,"United Kingdom",3622.00,856
+14500,"United Kingdom",1427.40,28
+14501,"United Kingdom",1004.84,40
+14502,"United Kingdom",10527.48,2664
+14503,"United Kingdom",15735.04,720
+14504,"United Kingdom",2904.72,464
+14505,"United Kingdom",26961.88,3500
+14506,"United Kingdom",9194.34,1467
+14507,"United Kingdom",6057.16,416
+14508,"United Kingdom",1252.48,256
+14511,"United Kingdom",6620.44,340
+14512,"United Kingdom",1101.12,92
+14513,"United Kingdom",2180.36,60
+14514,"United Kingdom",5044.20,332
+14515,"United Kingdom",9753.60,464
+14517,"United Kingdom",1321.80,72
+14518,"United Kingdom",864.28,72
+14520,"United Kingdom",1123.20,20
+14522,"United Kingdom",4473.76,92
+14523,"United Kingdom",1074.36,56
+14524,"United Kingdom",8453.92,900
+14525,"United Kingdom",22248.96,1276
+14527,"United Kingdom",38889.86,4319
+14528,"United Kingdom",1845.20,84
+14529,"United Kingdom",2684.80,992
+14530,"United Kingdom",13078.48,968
+14532,"United Kingdom",3979.60,268
+14533,"United Kingdom",8923.28,292
+14534,"United Kingdom",19499.64,2264
+14535,"United Kingdom",13184.84,1524
+14536,"United Kingdom",717.20,80
+14537,"United Kingdom",2019.84,52
+14538,"United Kingdom",1885.40,88
+14539,"United Kingdom",2432.88,144
+14540,"United Kingdom",4296.44,332
+14541,"United Kingdom",7526.00,504
+14542,"United Kingdom",413.00,20
+14543,"United Kingdom",14521.32,288
+14544,"United Kingdom",8879.04,504
+14546,"United Kingdom",11950.72,1800
+14547,"United Kingdom",18239.56,1648
+14548,"United Kingdom",4569.60,24
+14549,"United Kingdom",1264.16,240
+14550,"United Kingdom",3696.36,216
+14551,"United Kingdom",864.32,48
+14552,"United Kingdom",823.80,268
+14553,"United Kingdom",3937.16,516
+14554,"United Kingdom",11760.60,1040
+14555,"United Kingdom",1671.56,100
+14557,"United Kingdom",3345.52,72
+14560,"United Kingdom",13655.40,364
+14561,"United Kingdom",5112.28,320
+14562,"United Kingdom",22174.48,1844
+14565,"United Kingdom",13492.88,552
+14566,"Channel Islands",5728.00,16
+14567,"United Kingdom",7335.84,156
+14569,"United Kingdom",917.36,52
+14570,"United Kingdom",892.24,120
+14572,"United Kingdom",12436.96,1196
+14573,"United Kingdom",7690.63,1079
+14576,"United Kingdom",177.00,5
+14577,"United Kingdom",3744.00,540
+14578,"United Kingdom",674.52,96
+14581,"United Kingdom",554.40,68
+14582,"United Kingdom",456.44,24
+14583,"United Kingdom",4763.60,1448
+14584,"United Kingdom",4504.24,432
+14585,"United Kingdom",638.60,124
+14586,"United Kingdom",949.44,76
+14587,"United Kingdom",7398.32,1712
+14589,"United Kingdom",198.75,15
+14591,"United Kingdom",6641.92,900
+14592,"United Kingdom",2353.44,676
+14593,"United Kingdom",3274.64,744
+14594,"United Kingdom",1843.22,260
+14595,"United Kingdom",8623.92,488
+14597,"United Kingdom",3899.20,236
+14598,"United Kingdom",985.28,220
+14600,"United Kingdom",1614.12,104
+14601,"United Kingdom",855.84,28
+14603,"United Kingdom",4680.00,12
+14606,"United Kingdom",51138.10,11293
+14607,"United Kingdom",76188.40,376
+14608,"United Kingdom",7140.60,80
+14609,"United Kingdom",2406.24,16
+14616,"United Kingdom",3208.32,20
+14618,"United Kingdom",2213.76,64
+14619,"United Kingdom",1740.96,88
+14620,"United Kingdom",1651.12,104
+14621,"United Kingdom",7841.92,404
+14622,"United Kingdom",1413.12,92
+14623,"United Kingdom",3809.08,564
+14624,"United Kingdom",969.80,56
+14625,"United Kingdom",3924.52,228
+14626,"United Kingdom",12826.92,556
+14628,"United Kingdom",3112.64,104
+14629,"United Kingdom",4338.12,672
+14631,"United Kingdom",4087.92,168
+14632,"United Kingdom",512.32,36
+14633,"United Kingdom",1439.60,84
+14636,"United Kingdom",2439.40,112
+14638,"United Kingdom",2125.60,72
+14639,"United Kingdom",13853.72,796
+14640,"United Kingdom",9151.20,452
+14641,"United Kingdom",441.84,28
+14642,"United Kingdom",689.76,12
+14643,"United Kingdom",2775.24,124
+14644,"United Kingdom",3539.04,116
+14645,"United Kingdom",2708.76,132
+14646,"Netherlands",1272989.00,9256
+14647,"United Kingdom",1028.68,124
+14649,"United Kingdom",6570.84,868
+14651,"United Kingdom",2846.20,436
+14652,"United Kingdom",587.92,132
+14653,"United Kingdom",8468.80,992
+14655,"United Kingdom",8921.72,228
+14656,"United Kingdom",1386.16,360
+14657,"United Kingdom",3824.96,568
+14658,"United Kingdom",1264.76,136
+14659,"United Kingdom",11688.64,1156
+14660,"United Kingdom",1262.56,132
+14661,"United Kingdom",551.80,20
+14662,"United Kingdom",3268.08,696
+14664,"United Kingdom",2844.56,420
+14665,"United Kingdom",8824.80,428
+14666,"United Kingdom",781.00,56
+14667,"United Kingdom",40178.64,2516
+14669,"United Kingdom",5332.76,724
+14670,"United Kingdom",1735.56,552
+14672,"United Kingdom",3190.60,256
+14673,"United Kingdom",7483.20,328
+14675,"United Kingdom",2647.44,448
+14676,"United Kingdom",12093.76,184
+14680,"United Kingdom",141955.52,1233
+14681,"United Kingdom",2111.80,36
+14682,"United Kingdom",208.00,8
+14684,"United Kingdom",5512.20,1860
+14687,"United Kingdom",2513.52,60
+14688,"United Kingdom",24926.10,1470
+14689,"United Kingdom",601.20,68
+14690,"United Kingdom",1803.00,240
+14691,"United Kingdom",9887.84,336
+14692,"United Kingdom",2767.60,312
+14693,"United Kingdom",750.60,36
+14696,"United Kingdom",9110.66,579
+14697,"United Kingdom",798.40,100
+14698,"United Kingdom",5927.48,964
+14699,"United Kingdom",436.52,32
+14700,"United Kingdom",9215.20,484
+14701,"United Kingdom",10966.88,1456
+14702,"United Kingdom",16108.84,1576
+14703,"United Kingdom",1272.68,88
+14704,"United Kingdom",6881.96,1844
+14705,"United Kingdom",716.00,4
+14708,"United Kingdom",4884.68,132
+14709,"United Kingdom",23173.36,896
+14710,"United Kingdom",2785.36,616
+14711,"United Kingdom",12510.88,1560
+14712,"United Kingdom",3676.08,104
+14713,"United Kingdom",11814.68,1512
+14714,"United Kingdom",700.76,44
+14715,"United Kingdom",4009.28,328
+14716,"United Kingdom",1470.12,236
+14719,"United Kingdom",7017.44,1028
+14720,"United Kingdom",2857.04,160
+14722,"United Kingdom",751.68,116
+14723,"United Kingdom",5415.27,1280
+14725,"United Kingdom",3008.32,216
+14727,"United Kingdom",1074.32,40
+14729,"United Kingdom",1706.20,380
+14730,"United Kingdom",8715.00,2164
+14731,"United Kingdom",1717.80,208
+14732,"United Kingdom",12329.20,648
+14733,"United Kingdom",43611.16,888
+14735,"United Kingdom",31083.72,1000
+14737,"United Kingdom",4658.20,68
+14738,"United Kingdom",6222.00,244
+14739,"United Kingdom",17257.68,256
+14740,"United Kingdom",5973.80,368
+14741,"United Kingdom",7183.26,305
+14744,"United Kingdom",5369.92,116
+14745,"United Kingdom",5298.56,304
+14747,"United Kingdom",1383.60,76
+14748,"United Kingdom",6285.80,392
+14752,"United Kingdom",2393.76,24
+14753,"United Kingdom",2384.60,128
+14754,"United Kingdom",2660.60,172
+14755,"United Kingdom",22597.28,1052
+14756,"United Kingdom",3256.16,172
+14757,"United Kingdom",2040.00,96
+14758,"United Kingdom",6007.84,288
+14759,"United Kingdom",6949.28,436
+14760,"United Kingdom",492.80,28
+14761,"United Kingdom",1281.60,52
+14762,"United Kingdom",1268.08,88
+14764,"United Kingdom",1113.20,24
+14765,"United Kingdom",1075.84,168
+14766,"United Kingdom",11720.40,636
+14768,"United Kingdom",770.40,20
+14769,"United Kingdom",47835.28,4808
+14770,"United Kingdom",3857.76,224
+14772,"United Kingdom",723.04,48
+14775,"United Kingdom",4672.56,272
+14776,"United Kingdom",10213.20,472
+14778,"United Kingdom",3348.24,168
+14779,"United Kingdom",1544.60,164
+14780,"United Kingdom",2568.92,144
+14782,"United Kingdom",800.40,24
+14784,"United Kingdom",1259.80,64
+14785,"United Kingdom",309.60,12
+14788,"United Kingdom",2777.76,124
+14789,"United Kingdom",790.56,24
+14790,"United Kingdom",3310.24,204
+14792,"United Kingdom",24.80,8
+14793,"United Kingdom",1035.96,64
+14794,"United Kingdom",5957.56,352
+14795,"United Kingdom",525.80,24
+14796,"United Kingdom",36871.32,5040
+14798,"United Kingdom",765.76,52
+14799,"United Kingdom",663.80,56
+14800,"United Kingdom",19615.53,1725
+14801,"United Kingdom",806.24,248
+14803,"United Kingdom",3382.20,176
+14804,"United Kingdom",1493.08,52
+14805,"United Kingdom",2235.40,196
+14806,"United Kingdom",893.36,52
+14808,"United Kingdom",11213.20,972
+14810,"United Kingdom",10249.92,1217
+14813,"United Kingdom",852.90,160
+14815,"United Kingdom",3464.40,232
+14816,"United Kingdom",1087.40,16
+14817,"United Kingdom",4914.76,276
+14818,"United Kingdom",2838.80,212
+14819,"United Kingdom",1088.28,52
+14820,"United Kingdom",2387.56,140
+14821,"United Kingdom",195.20,8
+14823,"United Kingdom",1478.52,316
+14824,"United Kingdom",5222.04,136
+14825,"United Kingdom",10855.84,568
+14828,"United Kingdom",8559.04,68
+14829,"United Kingdom",3203.01,195
+14830,"United Kingdom",855.68,180
+14834,"United Kingdom",7603.84,304
+14836,"United Kingdom",409.80,24
+14837,"United Kingdom",7790.00,512
+14840,"United Kingdom",251.40,16
+14841,"United Kingdom",14449.96,604
+14842,"United Kingdom",13177.48,676
+14844,"United Kingdom",14002.24,584
+14847,"United Kingdom",1918.00,76
+14849,"United Kingdom",36733.24,1789
+14850,"United Kingdom",1303.00,84
+14851,"United Kingdom",2045.40,112
+14852,"United Kingdom",13091.16,668
+14853,"United Kingdom",1903.20,36
+14854,"United Kingdom",11755.84,552
+14855,"United Kingdom",3242.60,88
+14856,"United Kingdom",6019.12,300
+14857,"United Kingdom",5996.28,300
+14859,"United Kingdom",6915.36,284
+14860,"United Kingdom",722.08,48
+14861,"United Kingdom",503.16,24
+14862,"United Kingdom",3591.60,208
+14863,"United Kingdom",1205.76,48
+14865,"United Kingdom",246.00,19
+14866,"United Kingdom",65790.56,468
+14867,"United Kingdom",3136.32,160
+14868,"United Kingdom",12752.36,628
+14869,"United Kingdom",3671.64,340
+14870,"United Kingdom",1309.00,52
+14871,"United Kingdom",2334.80,432
+14873,"United Kingdom",2138.72,116
+14875,"United Kingdom",6917.76,228
+14878,"United Kingdom",6560.08,544
+14880,"United Kingdom",2951.16,196
+14881,"United Kingdom",1049.44,72
+14882,"United Kingdom",2358.80,44
+14883,"United Kingdom",3581.96,240
+14885,"United Kingdom",3541.28,68
+14886,"United Kingdom",1855.20,92
+14887,"United Kingdom",10312.00,32
+14888,"United Kingdom",1798.80,100
+14889,"United Kingdom",543.60,40
+14890,"United Kingdom",543.40,32
+14891,"United Kingdom",2349.52,140
+14893,"United Kingdom",5311.80,308
+14894,"United Kingdom",2783.80,100
+14895,"United Kingdom",50750.28,2300
+14896,"United Kingdom",2238.88,188
+14897,"United Kingdom",6059.64,248
+14898,"United Kingdom",5842.34,539
+14901,"United Kingdom",7110.39,459
+14902,"United Kingdom",2024.32,116
+14903,"United Kingdom",12811.88,1572
+14904,"United Kingdom",4101.76,276
+14905,"United Kingdom",3117.40,76
+14907,"United Kingdom",16065.68,732
+14908,"United Kingdom",1223.60,44
+14910,"United Kingdom",2108.20,144
+14911,"EIRE",639851.09,25098
+14912,"Italy",3922.60,116
+14913,"United Kingdom",5459.32,364
+14915,"United Kingdom",1388.32,56
+14916,"United Kingdom",5661.12,336
+14918,"United Kingdom",7331.00,200
+14920,"United Kingdom",4394.08,256
+14921,"United Kingdom",5317.08,316
+14923,"United Kingdom",3658.60,212
+14924,"United Kingdom",1360.20,48
+14929,"United Kingdom",965.12,48
+14930,"Channel Islands",11590.40,632
+14931,"Channel Islands",5319.92,176
+14932,"Channel Islands",1454.12,68
+14934,"Channel Islands",8424.40,392
+14935,"Channel Islands",7138.84,40
+14936,"Channel Islands",36558.32,1648
+14937,"Channel Islands",8397.92,164
+14944,"United Kingdom",27359.16,780
+14946,"United Kingdom",807.20,24
+14947,"United Kingdom",1163.28,56
+14948,"United Kingdom",4592.68,264
+14950,"United Kingdom",2016.00,92
+14951,"United Kingdom",1246.76,80
+14952,"United Kingdom",35389.00,612
+14953,"United Kingdom",1238.24,244
+14954,"United Kingdom",1413.44,360
+14957,"United Kingdom",285.96,52
+14958,"United Kingdom",2070.32,172
+14959,"United Kingdom",2841.68,240
+14960,"United Kingdom",1051.00,124
+14961,"United Kingdom",32582.92,1416
+14962,"United Kingdom",506.80,20
+14963,"United Kingdom",7770.44,932
+14964,"United Kingdom",824.84,52
+14965,"United Kingdom",3238.92,396
+14966,"United Kingdom",770.28,156
+14967,"United Kingdom",1855.20,24
+14968,"United Kingdom",650.44,164
+14970,"United Kingdom",6781.44,144
+14971,"United Kingdom",4848.68,704
+14972,"United Kingdom",509.08,76
+14973,"United Kingdom",5297.64,132
+14974,"United Kingdom",489.56,96
+14975,"United Kingdom",1119.76,44
+14976,"United Kingdom",3692.44,324
+14978,"United Kingdom",7884.08,900
+14981,"United Kingdom",474.48,36
+14984,"United Kingdom",903.08,172
+14985,"United Kingdom",1242.80,364
+14987,"United Kingdom",1958.40,24
+14988,"United Kingdom",1682.68,176
+14995,"United Kingdom",1018.72,268
+14997,"United Kingdom",2468.00,112
+14998,"United Kingdom",1832.08,328
+15000,"United Kingdom",2287.88,344
+15002,"United Kingdom",8094.60,528
+15004,"United Kingdom",5983.28,704
+15005,"United Kingdom",29747.28,5112
+15006,"United Kingdom",2403.96,612
+15007,"United Kingdom",693.64,52
+15009,"United Kingdom",5471.08,796
+15010,"United Kingdom",1506.96,96
+15012,"United Kingdom",2241.35,649
+15014,"United Kingdom",1057.68,144
+15016,"United Kingdom",779.00,88
+15017,"United Kingdom",543.92,84
+15018,"United Kingdom",2038.92,128
+15019,"United Kingdom",1165.60,312
+15021,"United Kingdom",9130.76,2132
+15022,"United Kingdom",3836.52,568
+15023,"United Kingdom",31807.56,2554
+15024,"United Kingdom",7624.84,700
+15025,"United Kingdom",1637.48,328
+15026,"United Kingdom",2178.00,292
+15027,"United Kingdom",4533.40,156
+15028,"United Kingdom",2998.44,204
+15030,"United Kingdom",2378.40,32
+15031,"United Kingdom",3204.56,484
+15032,"United Kingdom",22054.00,236
+15033,"United Kingdom",11646.48,2260
+15034,"United Kingdom",19250.80,1732
+15035,"United Kingdom",1249.72,128
+15036,"United Kingdom",2091.68,540
+15038,"United Kingdom",3325.05,612
+15039,"United Kingdom",88629.88,6676
+15041,"United Kingdom",807.76,304
+15042,"United Kingdom",636.20,24
+15043,"United Kingdom",2148.00,12
+15044,"United Kingdom",34162.16,1984
+15045,"United Kingdom",2942.64,48
+15046,"United Kingdom",26803.88,936
+15047,"United Kingdom",1487.28,96
+15048,"United Kingdom",1597.76,416
+15049,"United Kingdom",484.68,12
+15050,"United Kingdom",7760.76,328
+15051,"United Kingdom",6832.40,668
+15052,"United Kingdom",896.72,128
+15053,"United Kingdom",2831.76,296
+15054,"United Kingdom",1263.40,484
+15057,"United Kingdom",6476.40,112
+15058,"United Kingdom",9529.60,1212
+15059,"United Kingdom",6188.60,1056
+15060,"United Kingdom",1238.60,512
+15061,"United Kingdom",237197.18,1777
+15062,"United Kingdom",3951.44,228
+15063,"United Kingdom",2626.40,28
+15065,"United Kingdom",14299.92,700
+15066,"United Kingdom",4069.72,192
+15067,"United Kingdom",8278.08,392
+15068,"United Kingdom",2456.96,448
+15069,"United Kingdom",5354.16,336
+15070,"United Kingdom",531.00,5
+15071,"United Kingdom",4182.68,116
+15073,"United Kingdom",4293.04,224
+15074,"United Kingdom",3231.88,180
+15075,"United Kingdom",3606.52,124
+15076,"United Kingdom",3881.40,220
+15078,"United Kingdom",49449.80,2228
+15079,"United Kingdom",5120.68,256
+15081,"United Kingdom",2489.60,156
+15083,"United Kingdom",352.80,20
+15087,"United Kingdom",1297.36,64
+15088,"United Kingdom",4787.88,240
+15089,"United Kingdom",11110.16,656
+15090,"United Kingdom",1596.08,96
+15091,"United Kingdom",2168.84,136
+15092,"United Kingdom",2047.64,116
+15093,"United Kingdom",19720.29,477
+15095,"United Kingdom",5690.80,196
+15096,"United Kingdom",997.56,52
+15097,"United Kingdom",1152.12,112
+15098,"United Kingdom",319332.00,24
+15099,"United Kingdom",1783.52,100
+15100,"United Kingdom",3854.40,13
+15101,"United Kingdom",1270.12,32
+15103,"United Kingdom",3071.92,156
+15104,"United Kingdom",4820.96,320
+15105,"United Kingdom",11391.00,476
+15106,"United Kingdom",6131.72,424
+15107,"United Kingdom",1535.60,77
+15108,"European Community",5311.00,248
+15109,"United Kingdom",2205.40,128
+15110,"United Kingdom",4308.40,160
+15111,"United Kingdom",7305.78,393
+15113,"United Kingdom",17464.32,456
+15114,"United Kingdom",11498.24,820
+15115,"United Kingdom",1429.80,88
+15116,"United Kingdom",6131.00,212
+15117,"United Kingdom",7519.52,400
+15118,"United Kingdom",979.20,4
+15119,"United Kingdom",1065.60,56
+15120,"United Kingdom",1476.08,88
+15121,"United Kingdom",1910.08,116
+15122,"United Kingdom",7818.20,376
+15123,"United Kingdom",9473.24,460
+15124,"United Kingdom",884.76,68
+15125,"United Kingdom",59660.16,616
+15127,"United Kingdom",1935.72,72
+15128,"United Kingdom",6280.00,432
+15129,"United Kingdom",14521.20,360
+15130,"United Kingdom",1361.24,92
+15132,"United Kingdom",4319.72,224
+15133,"United Kingdom",3989.68,120
+15134,"United Kingdom",7075.72,348
+15135,"United Kingdom",556.20,36
+15136,"United Kingdom",5766.80,304
+15139,"United Kingdom",756.64,56
+15140,"United Kingdom",10865.08,372
+15142,"United Kingdom",2246.96,116
+15143,"United Kingdom",1037.80,56
+15144,"United Kingdom",27977.36,928
+15145,"United Kingdom",5015.72,284
+15146,"United Kingdom",5559.44,380
+15147,"United Kingdom",2589.20,116
+15148,"United Kingdom",1442.76,92
+15149,"United Kingdom",2154.00,96
+15150,"United Kingdom",23801.80,1524
+15152,"United Kingdom",21200.00,1208
+15153,"United Kingdom",1477.80,96
+15154,"United Kingdom",1405.64,364
+15156,"United Kingdom",4025.72,232
+15157,"United Kingdom",8282.84,524
+15158,"United Kingdom",1725.60,32
+15159,"United Kingdom",86487.52,3184
+15160,"United Kingdom",632.64,16
+15163,"United Kingdom",1346.08,132
+15164,"United Kingdom",3748.84,456
+15165,"United Kingdom",2644.25,145
+15167,"United Kingdom",662.20,168
+15168,"United Kingdom",426.24,20
+15171,"United Kingdom",5158.00,20
+15172,"United Kingdom",7385.88,492
+15174,"United Kingdom",543.00,44
+15175,"United Kingdom",896.56,92
+15178,"United Kingdom",162.00,12
+15179,"United Kingdom",9318.20,400
+15180,"United Kingdom",350.00,24
+15181,"United Kingdom",2757.92,64
+15182,"United Kingdom",2998.20,136
+15184,"United Kingdom",1910.64,276
+15185,"United Kingdom",1242.48,84
+15186,"United Kingdom",1787.24,80
+15187,"United Kingdom",22076.80,424
+15189,"United Kingdom",72162.52,944
+15192,"United Kingdom",4218.08,208
+15193,"United Kingdom",2546.88,100
+15194,"United Kingdom",31660.80,1308
+15195,"United Kingdom",15444.00,4
+15197,"United Kingdom",4594.44,140
+15198,"United Kingdom",774.56,40
+15199,"United Kingdom",5074.80,52
+15201,"United Kingdom",5666.00,308
+15203,"United Kingdom",8746.40,652
+15204,"United Kingdom",1345.52,40
+15205,"United Kingdom",2971.36,168
+15206,"United Kingdom",1681.20,36
+15208,"United Kingdom",3810.48,176
+15210,"United Kingdom",1444.72,88
+15211,"United Kingdom",4064.20,236
+15212,"United Kingdom",407.20,20
+15213,"United Kingdom",1379.40,100
+15214,"United Kingdom",7291.36,472
+15215,"United Kingdom",3071.36,148
+15216,"United Kingdom",386.40,8
+15218,"United Kingdom",27295.56,748
+15219,"United Kingdom",1579.80,40
+15220,"United Kingdom",8102.48,520
+15221,"United Kingdom",1946.60,24
+15222,"United Kingdom",2920.00,24
+15223,"United Kingdom",3023.00,80
+15224,"United Kingdom",1535.52,64
+15225,"United Kingdom",1942.40,104
+15226,"United Kingdom",740.04,40
+15227,"United Kingdom",5981.00,276
+15228,"United Kingdom",15235.24,564
+15230,"United Kingdom",2028.00,116
+15232,"United Kingdom",2550.24,128
+15234,"United Kingdom",959.60,68
+15235,"United Kingdom",9829.74,615
+15236,"United Kingdom",1502.60,80
+15237,"United Kingdom",6398.32,448
+15238,"United Kingdom",4800.84,228
+15239,"United Kingdom",3737.64,236
+15240,"United Kingdom",7587.96,352
+15241,"United Kingdom",7445.76,464
+15243,"United Kingdom",1440.32,100
+15244,"United Kingdom",3125.08,156
+15245,"United Kingdom",10908.56,396
+15246,"United Kingdom",2414.20,152
+15247,"United Kingdom",2340.80,36
+15249,"United Kingdom",31600.32,1612
+15251,"United Kingdom",56605.16,588
+15252,"United Kingdom",3396.32,200
+15253,"United Kingdom",4675.40,264
+15254,"United Kingdom",1497.20,88
+15255,"United Kingdom",4437.20,224
+15256,"United Kingdom",459.80,28
+15257,"United Kingdom",1268.60,28
+15258,"United Kingdom",2859.28,152
+15260,"United Kingdom",9000.74,375
+15261,"United Kingdom",1169.04,88
+15262,"United Kingdom",715.80,40
+15263,"United Kingdom",626.04,48
+15264,"United Kingdom",1687.60,104
+15265,"United Kingdom",6537.56,360
+15266,"United Kingdom",537.20,28
+15267,"United Kingdom",7618.24,48
+15269,"United Kingdom",1635.20,8
+15270,"United Kingdom",10536.76,188
+15271,"United Kingdom",11650.44,1224
+15272,"United Kingdom",3084.56,268
+15274,"United Kingdom",3156.88,204
+15275,"United Kingdom",2885.04,188
+15276,"United Kingdom",635.20,244
+15277,"United Kingdom",1023.60,48
+15279,"United Kingdom",1241.64,84
+15280,"United Kingdom",452.48,64
+15281,"United Kingdom",10592.52,624
+15286,"United Kingdom",962.20,12
+15287,"United Kingdom",1946.76,80
+15288,"United Kingdom",10916.56,408
+15289,"United Kingdom",3879.12,240
+15290,"United Kingdom",34886.16,880
+15291,"United Kingdom",21622.00,442
+15292,"United Kingdom",826.96,112
+15296,"United Kingdom",17469.56,912
+15297,"United Kingdom",2769.00,168
+15298,"United Kingdom",25647.60,868
+15299,"United Kingdom",19863.05,31
+15300,"United Kingdom",2458.56,136
+15301,"United Kingdom",21677.08,1056
+15303,"United Kingdom",2945.28,152
+15304,"United Kingdom",2777.60,92
+15306,"United Kingdom",4819.80,240
+15307,"United Kingdom",892.80,52
+15308,"United Kingdom",1241.88,76
+15311,"United Kingdom",272090.08,10654
+15312,"United Kingdom",4643.40,216
+15313,"United Kingdom",208.00,4
+15314,"United Kingdom",1372.84,104
+15315,"United Kingdom",2402.00,156
+15316,"United Kingdom",660.00,4
+15318,"United Kingdom",1250.48,132
+15319,"United Kingdom",928.00,72
+15320,"United Kingdom",1215.88,168
+15321,"United Kingdom",12403.24,424
+15322,"United Kingdom",3066.16,188
+15325,"United Kingdom",683.96,204
+15326,"United Kingdom",1246.84,116
+15327,"United Kingdom",1104.60,56
+15329,"United Kingdom",4466.80,248
+15330,"United Kingdom",2859.84,52
+15332,"Lithuania",8242.30,174
+15333,"United Kingdom",4114.24,64
+15334,"United Kingdom",1482.48,424
+15335,"United Kingdom",744.40,160
+15339,"United Kingdom",2503.08,368
+15341,"United Kingdom",8362.88,72
+15342,"United Kingdom",1746.76,100
+15343,"United Kingdom",1608.80,96
+15344,"United Kingdom",2613.76,116
+15345,"United Kingdom",1653.96,84
+15346,"United Kingdom",1009.68,68
+15347,"United Kingdom",806.40,20
+15348,"United Kingdom",632.16,36
+15349,"United Kingdom",2120.84,320
+15350,"United Kingdom",578.25,25
+15351,"United Kingdom",9886.04,1136
+15353,"United Kingdom",3281.20,272
+15355,"United Kingdom",1108.20,56
+15356,"United Kingdom",12659.56,2344
+15358,"United Kingdom",38422.56,2480
+15360,"United Kingdom",1838.12,56
+15361,"United Kingdom",1675.68,28
+15363,"United Kingdom",1630.00,80
+15364,"United Kingdom",3901.56,132
+15365,"United Kingdom",11134.48,516
+15366,"United Kingdom",2464.04,180
+15367,"United Kingdom",8459.56,416
+15368,"United Kingdom",1787.76,16
+15370,"United Kingdom",9795.96,396
+15372,"United Kingdom",10504.16,140
+15373,"United Kingdom",10488.10,572
+15374,"United Kingdom",772.80,16
+15376,"United Kingdom",5666.72,528
+15379,"United Kingdom",16416.84,836
+15380,"United Kingdom",7196.24,152
+15381,"United Kingdom",2387.40,32
+15382,"United Kingdom",28372.20,1460
+15384,"United Kingdom",3043.64,184
+15385,"United Kingdom",2124.80,64
+15386,"United Kingdom",1576.56,124
+15388,"Canada",642.56,48
+15389,"United Kingdom",2000.00,4
+15392,"United Kingdom",6870.20,364
+15393,"United Kingdom",927.44,48
+15394,"United Kingdom",9941.36,388
+15395,"United Kingdom",483.80,32
+15396,"United Kingdom",1152.72,56
+15397,"United Kingdom",376.00,24
+15398,"United Kingdom",6811.08,364
+15399,"United Kingdom",3451.48,208
+15400,"United Kingdom",2864.80,48
+15402,"United Kingdom",2861.88,180
+15405,"United Kingdom",1396.40,32
+15406,"United Kingdom",2158.32,232
+15407,"United Kingdom",4521.92,684
+15408,"United Kingdom",1209.12,156
+15410,"United Kingdom",14550.96,512
+15411,"United Kingdom",6080.36,452
+15412,"United Kingdom",1601.72,52
+15414,"United Kingdom",3232.40,164
+15415,"United Kingdom",2577.64,208
+15416,"United Kingdom",17225.76,840
+15417,"United Kingdom",2465.60,136
+15419,"United Kingdom",543.44,32
+15421,"United Kingdom",4966.24,268
+15422,"United Kingdom",458.80,28
+15423,"United Kingdom",174.00,8
+15424,"United Kingdom",1691.76,76
+15426,"United Kingdom",6824.47,1370
+15427,"United Kingdom",6361.88,1320
+15428,"United Kingdom",445.92,28
+15429,"United Kingdom",1995.16,392
+15432,"United Kingdom",756.16,44
+15433,"United Kingdom",2397.20,180
+15434,"United Kingdom",4368.72,232
+15435,"United Kingdom",597.16,116
+15436,"United Kingdom",4779.56,1404
+15437,"United Kingdom",829.84,188
+15438,"United Kingdom",626.32,100
+15440,"United Kingdom",1574.92,256
+15442,"United Kingdom",2376.00,8
+15443,"United Kingdom",14234.12,1656
+15444,"United Kingdom",6346.48,1000
+15445,"United Kingdom",454.00,20
+15447,"United Kingdom",661.48,40
+15448,"United Kingdom",2196.16,124
+15449,"United Kingdom",4098.48,252
+15450,"United Kingdom",2116.96,148
+15452,"United Kingdom",2321.32,252
+15453,"United Kingdom",6099.00,1260
+15454,"United Kingdom",716.40,100
+15456,"United Kingdom",1909.48,260
+15457,"United Kingdom",1190.88,268
+15458,"United Kingdom",646.56,28
+15460,"United Kingdom",905.84,240
+15462,"United Kingdom",998.40,48
+15463,"United Kingdom",626.96,32
+15464,"United Kingdom",4350.20,664
+15465,"United Kingdom",30770.23,403
+15466,"United Kingdom",1673.64,264
+15467,"United Kingdom",2615.20,256
+15468,"United Kingdom",2245.56,116
+15469,"United Kingdom",2647.04,116
+15471,"United Kingdom",2288.32,332
+15472,"United Kingdom",1752.48,336
+15473,"United Kingdom",8524.80,52
+15475,"United Kingdom",2069.24,128
+15478,"United Kingdom",7418.48,220
+15480,"Malta",3988.80,200
+15482,"United Kingdom",53893.36,480
+15483,"United Kingdom",1075.28,392
+15484,"United Kingdom",15268.24,808
+15485,"United Kingdom",11270.25,371
+15488,"United Kingdom",670.56,12
+15489,"United Kingdom",6044.36,260
+15491,"United Kingdom",13894.64,692
+15492,"United Kingdom",3057.04,164
+15493,"United Kingdom",8747.40,1292
+15494,"United Kingdom",5594.12,544
+15497,"United Kingdom",5773.60,68
+15498,"United Kingdom",56131.56,2168
+15500,"United Kingdom",5160.64,308
+15502,"United Kingdom",45411.12,948
+15503,"United Kingdom",664.96,308
+15504,"United Kingdom",211.32,52
+15505,"United Kingdom",14527.36,392
+15506,"United Kingdom",4149.04,696
+15507,"United Kingdom",2181.04,204
+15508,"United Kingdom",4304.56,416
+15510,"United Kingdom",1000.00,4
+15511,"United Kingdom",3957.72,692
+15512,"United Kingdom",545.20,32
+15513,"United Kingdom",68548.24,1440
+15514,"United Kingdom",17117.24,748
+15516,"United Kingdom",255.52,64
+15517,"United Kingdom",1135.32,120
+15518,"United Kingdom",10034.36,1016
+15520,"United Kingdom",1474.80,76
+15521,"United Kingdom",14088.40,892
+15522,"United Kingdom",2040.12,280
+15523,"United Kingdom",1727.24,44
+15524,"United Kingdom",1760.00,4
+15525,"United Kingdom",4498.08,951
+15526,"United Kingdom",593.76,16
+15527,"United Kingdom",10986.92,720
+15528,"United Kingdom",917.32,104
+15529,"United Kingdom",17764.28,2944
+15530,"United Kingdom",6776.40,484
+15531,"United Kingdom",8957.00,1008
+15532,"United Kingdom",7027.52,1096
+15533,"United Kingdom",3264.96,336
+15535,"United Kingdom",2292.60,316
+15537,"United Kingdom",458.68,100
+15539,"United Kingdom",2194.64,168
+15540,"United Kingdom",853.20,60
+15541,"United Kingdom",426.08,140
+15543,"United Kingdom",528.04,116
+15544,"United Kingdom",18141.70,1244
+15545,"United Kingdom",1595.46,412
+15547,"United Kingdom",21669.20,3052
+15549,"United Kingdom",7896.44,504
+15550,"United Kingdom",2388.76,264
+15551,"United Kingdom",1766.08,120
+15552,"United Kingdom",368.28,72
+15553,"United Kingdom",2036.04,248
+15554,"United Kingdom",868.80,56
+15555,"United Kingdom",22476.42,4092
+15556,"United Kingdom",1246.76,136
+15557,"United Kingdom",2102.80,88
+15561,"United Kingdom",3721.24,144
+15562,"United Kingdom",538.20,4
+15563,"United Kingdom",5937.76,476
+15565,"United Kingdom",815.04,36
+15567,"United Kingdom",744.04,28
+15568,"United Kingdom",3641.96,240
+15569,"United Kingdom",9341.60,160
+15570,"United Kingdom",19418.03,1485
+15571,"United Kingdom",2940.80,252
+15572,"United Kingdom",11406.96,968
+15573,"United Kingdom",2569.36,440
+15574,"United Kingdom",3250.25,817
+15576,"United Kingdom",4979.28,208
+15577,"United Kingdom",1378.92,180
+15578,"United Kingdom",508.40,52
+15579,"United Kingdom",1491.40,220
+15581,"United Kingdom",14862.28,620
+15582,"United Kingdom",2917.64,192
+15584,"United Kingdom",3241.32,548
+15585,"United Kingdom",2278.04,144
+15587,"United Kingdom",3980.16,40
+15589,"United Kingdom",1984.92,120
+15592,"United Kingdom",1623.92,100
+15593,"United Kingdom",799.20,20
+15594,"United Kingdom",7546.72,436
+15596,"United Kingdom",6164.96,336
+15597,"United Kingdom",1461.48,96
+15598,"United Kingdom",1164.32,68
+15599,"United Kingdom",3416.72,236
+15601,"United Kingdom",30695.34,1826
+15602,"United Kingdom",6051.64,220
+15603,"United Kingdom",332.16,12
+15604,"United Kingdom",925.56,72
+15605,"United Kingdom",5342.97,300
+15606,"United Kingdom",11848.64,316
+15607,"United Kingdom",419.04,52
+15608,"United Kingdom",5269.76,296
+15609,"United Kingdom",1193.92,64
+15610,"United Kingdom",579.20,32
+15611,"United Kingdom",6436.60,176
+15612,"United Kingdom",780.60,24
+15615,"United Kingdom",46668.56,1936
+15618,"United Kingdom",3350.36,192
+15619,"United Kingdom",1345.60,12
+15620,"United Kingdom",6941.32,440
+15621,"United Kingdom",8872.84,88
+15622,"United Kingdom",18066.52,880
+15623,"United Kingdom",1263.52,80
+15624,"United Kingdom",2709.64,156
+15625,"United Kingdom",6342.24,268
+15626,"United Kingdom",2703.20,196
+15628,"United Kingdom",13021.20,688
+15630,"United Kingdom",4979.40,252
+15632,"United Kingdom",14835.64,756
+15634,"United Kingdom",1034.20,64
+15636,"United Kingdom",3730.24,120
+15637,"United Kingdom",952.84,64
+15639,"United Kingdom",1905.08,108
+15640,"United Kingdom",56849.16,2188
+15641,"United Kingdom",8054.16,508
+15643,"United Kingdom",3381.00,156
+15644,"United Kingdom",3546.44,1016
+15645,"United Kingdom",3069.64,236
+15646,"United Kingdom",2201.56,173
+15648,"United Kingdom",3171.80,128
+15649,"United Kingdom",3264.00,8
+15651,"United Kingdom",2886.80,140
+15652,"United Kingdom",1639.16,104
+15653,"United Kingdom",3509.76,24
+15654,"United Kingdom",3690.12,84
+15655,"United Kingdom",2355.08,144
+15656,"United Kingdom",3905.28,248
+15657,"United Kingdom",120.00,4
+15658,"United Kingdom",4765.60,226
+15659,"United Kingdom",1357.80,48
+15660,"United Kingdom",7847.96,440
+15661,"United Kingdom",1239.20,20
+15663,"United Kingdom",552.56,36
+15664,"United Kingdom",1545.72,68
+15665,"United Kingdom",9746.04,504
+15667,"United Kingdom",1302.72,60
+15668,"United Kingdom",610.56,8
+15669,"United Kingdom",2975.36,144
+15670,"United Kingdom",733.00,52
+15671,"United Kingdom",11158.92,336
+15673,"United Kingdom",13109.84,696
+15674,"United Kingdom",11299.12,532
+15675,"United Kingdom",1504.16,96
+15676,"United Kingdom",15745.80,908
+15677,"United Kingdom",3007.32,152
+15678,"United Kingdom",1410.80,48
+15679,"United Kingdom",3484.92,464
+15680,"United Kingdom",6444.44,372
+15681,"United Kingdom",5952.40,224
+15683,"United Kingdom",1020.60,52
+15687,"United Kingdom",12848.00,708
+15689,"United Kingdom",1016.40,36
+15690,"United Kingdom",1222.56,88
+15691,"United Kingdom",914.40,12
+15692,"United Kingdom",834.96,52
+15694,"United Kingdom",28260.64,342
+15695,"United Kingdom",1639.92,88
+15696,"United Kingdom",12535.68,784
+15699,"United Kingdom",1469.40,84
+15700,"United Kingdom",3074.92,372
+15701,"United Kingdom",6736.64,1020
+15703,"United Kingdom",846.00,20
+15704,"United Kingdom",12129.20,544
+15705,"United Kingdom",572.40,24
+15706,"United Kingdom",4563.04,236
+15707,"United Kingdom",4185.12,948
+15708,"United Kingdom",16202.49,1379
+15709,"United Kingdom",634.76,28
+15712,"United Kingdom",4719.44,236
+15713,"United Kingdom",2140.56,104
+15714,"United Kingdom",1476.24,148
+15716,"United Kingdom",5603.90,558
+15717,"United Kingdom",742.80,32
+15719,"United Kingdom",24163.36,4304
+15720,"United Kingdom",2903.68,592
+15721,"United Kingdom",2598.92,432
+15722,"United Kingdom",10146.00,296
+15723,"United Kingdom",839.40,168
+15724,"United Kingdom",933.00,48
+15725,"United Kingdom",1887.28,148
+15727,"United Kingdom",24322.32,1392
+15729,"United Kingdom",340.00,20
+15730,"United Kingdom",5516.92,344
+15732,"United Kingdom",1380.58,65
+15733,"United Kingdom",649.20,40
+15734,"United Kingdom",6576.00,140
+15737,"United Kingdom",5481.92,332
+15738,"United Kingdom",20679.91,759
+15739,"United Kingdom",2310.08,48
+15740,"United Kingdom",685.92,40
+15743,"United Kingdom",3459.44,384
+15744,"United Kingdom",139.20,12
+15745,"United Kingdom",4792.56,276
+15746,"United Kingdom",795.32,116
+15747,"United Kingdom",4424.92,416
+15748,"United Kingdom",675.04,100
+15749,"United Kingdom",244671.20,56
+15750,"United Kingdom",10568.52,1264
+15752,"United Kingdom",12185.89,1811
+15753,"United Kingdom",316.80,4
+15754,"United Kingdom",1935.08,116
+15755,"United Kingdom",11332.04,656
+15756,"United Kingdom",2402.52,892
+15757,"United Kingdom",3228.28,204
+15758,"United Kingdom",821.00,36
+15759,"United Kingdom",1012.16,28
+15762,"United Kingdom",2763.60,176
+15763,"United Kingdom",4520.08,256
+15764,"United Kingdom",14433.28,804
+15766,"United Kingdom",1353.84,48
+15768,"United Kingdom",2770.52,124
+15769,"United Kingdom",255912.76,601
+15773,"United Kingdom",2665.12,44
+15774,"United Kingdom",1185.40,112
+15775,"United Kingdom",490.40,32
+15776,"United Kingdom",1105.08,84
+15777,"United Kingdom",4902.44,96
+15780,"United Kingdom",2116.00,124
+15781,"United Kingdom",1441.84,84
+15782,"United Kingdom",13696.96,232
+15783,"United Kingdom",1165.20,68
+15785,"United Kingdom",12227.56,396
+15786,"United Kingdom",23361.64,1228
+15787,"United Kingdom",4295.00,940
+15789,"United Kingdom",1466.40,104
+15790,"United Kingdom",928.96,148
+15791,"United Kingdom",7801.40,360
+15793,"United Kingdom",5452.20,68
+15795,"United Kingdom",2572.84,176
+15796,"United Kingdom",11949.08,600
+15797,"United Kingdom",9808.80,36
+15799,"United Kingdom",4075.60,460
+15800,"United Kingdom",2994.32,508
+15801,"United Kingdom",4848.40,292
+15802,"United Kingdom",1805.68,4
+15803,"United Kingdom",2384.00,44
+15804,"United Kingdom",18447.16,1136
+15805,"United Kingdom",24367.56,1332
+15806,"United Kingdom",3455.12,128
+15807,"United Kingdom",4453.84,228
+15808,"United Kingdom",17484.33,935
+15809,"United Kingdom",2276.68,156
+15810,"United Kingdom",6397.12,404
+15811,"United Kingdom",9632.16,572
+15812,"United Kingdom",8762.76,208
+15813,"United Kingdom",5439.44,172
+15814,"United Kingdom",8395.32,308
+15815,"United Kingdom",8402.40,196
+15819,"United Kingdom",8251.24,528
+15820,"United Kingdom",827.92,68
+15821,"United Kingdom",3328.20,352
+15822,"United Kingdom",3885.08,140
+15823,"United Kingdom",75.00,5
+15825,"United Kingdom",2131.76,80
+15826,"United Kingdom",8039.80,328
+15827,"United Kingdom",8523.51,536
+15829,"United Kingdom",2597.36,208
+15830,"United Kingdom",2614.80,172
+15831,"United Kingdom",3475.84,300
+15832,"United Kingdom",3387.96,220
+15834,"United Kingdom",10007.80,1204
+15835,"United Kingdom",4159.56,220
+15836,"United Kingdom",608.88,44
+15837,"United Kingdom",1981.92,124
+15838,"United Kingdom",147698.40,740
+15839,"United Kingdom",4598.84,272
+15840,"United Kingdom",1463.04,112
+15841,"United Kingdom",5613.36,200
+15843,"United Kingdom",475.80,32
+15844,"United Kingdom",563.76,48
+15845,"United Kingdom",15728.00,596
+15847,"United Kingdom",1557.08,88
+15850,"United Kingdom",1008.60,412
+15852,"United Kingdom",901.44,100
+15853,"United Kingdom",488.20,136
+15854,"United Kingdom",13268.20,604
+15855,"United Kingdom",3019.56,336
+15856,"United Kingdom",79452.20,2848
+15857,"United Kingdom",1567.20,64
+15858,"United Kingdom",6161.88,820
+15860,"United Kingdom",4571.84,664
+15861,"United Kingdom",14788.76,2468
+15862,"United Kingdom",3986.71,700
+15863,"United Kingdom",302.16,80
+15864,"United Kingdom",9386.88,92
+15865,"United Kingdom",4010.20,188
+15866,"United Kingdom",944.72,192
+15867,"United Kingdom",16674.70,2002
+15869,"United Kingdom",693.16,68
+15870,"United Kingdom",1477.16,320
+15872,"United Kingdom",1840.08,608
+15874,"United Kingdom",18168.32,500
+15877,"United Kingdom",2147.48,564
+15880,"United Kingdom",1759.90,545
+15881,"United Kingdom",2022.56,120
+15882,"United Kingdom",2389.44,100
+15883,"United Kingdom",1681.12,208
+15885,"United Kingdom",1517.40,72
+15886,"United Kingdom",724.36,48
+15888,"United Kingdom",698.84,56
+15889,"United Kingdom",1834.28,380
+15891,"United Kingdom",2132.08,252
+15894,"United Kingdom",1221.44,212
+15895,"United Kingdom",731.68,48
+15897,"United Kingdom",888.20,96
+15898,"United Kingdom",7721.92,372
+15899,"United Kingdom",264.60,20
+15900,"United Kingdom",1487.48,228
+15901,"United Kingdom",1642.16,524
+15903,"United Kingdom",22047.84,308
+15904,"United Kingdom",812.92,148
+15906,"United Kingdom",7154.20,664
+15907,"United Kingdom",4622.88,1088
+15909,"United Kingdom",767.76,28
+15910,"United Kingdom",5626.80,1180
+15912,"United Kingdom",1099.28,84
+15916,"United Kingdom",6297.16,644
+15917,"United Kingdom",516.20,52
+15918,"United Kingdom",1350.12,164
+15919,"United Kingdom",2731.64,624
+15920,"United Kingdom",737.40,252
+15921,"United Kingdom",1411.92,104
+15922,"United Kingdom",1847.50,55
+15923,"United Kingdom",635.40,105
+15925,"United Kingdom",828.60,48
+15930,"United Kingdom",2148.72,108
+15932,"United Kingdom",11418.44,500
+15933,"United Kingdom",4835.76,324
+15935,"United Kingdom",1667.44,48
+15937,"United Kingdom",581.40,28
+15938,"United Kingdom",2300.32,96
+15939,"United Kingdom",25832.84,324
+15940,"United Kingdom",143.20,4
+15942,"United Kingdom",1349.76,56
+15944,"United Kingdom",1300.40,24
+15945,"United Kingdom",724.00,8
+15947,"United Kingdom",6974.56,120
+15948,"United Kingdom",4506.16,276
+15949,"United Kingdom",1691.28,84
+15950,"United Kingdom",8715.68,472
+15951,"United Kingdom",3157.88,180
+15952,"United Kingdom",4166.60,424
+15953,"United Kingdom",9125.68,448
+15955,"United Kingdom",23624.62,929
+15957,"United Kingdom",1770.76,180
+15958,"United Kingdom",417.40,28
+15963,"United Kingdom",2207.64,132
+15965,"United Kingdom",4067.00,568
+15967,"United Kingdom",1766.32,352
+15969,"United Kingdom",3031.60,92
+15970,"United Kingdom",2185.20,68
+15971,"United Kingdom",19631.40,144
+15973,"United Kingdom",1231.28,16
+15974,"United Kingdom",15211.88,772
+15975,"United Kingdom",1747.44,112
+15976,"United Kingdom",2087.60,452
+15977,"United Kingdom",4550.08,280
+15978,"United Kingdom",5128.72,224
+15980,"United Kingdom",10966.16,200
+15981,"United Kingdom",16248.32,460
+15983,"United Kingdom",6367.37,488
+15984,"United Kingdom",13083.72,1216
+15985,"United Kingdom",4773.68,156
+15986,"United Kingdom",769.44,64
+15987,"United Kingdom",6066.04,616
+15988,"United Kingdom",848.72,132
+15990,"United Kingdom",4030.04,256
+15992,"United Kingdom",167.96,12
+15993,"United Kingdom",12157.68,2396
+15994,"United Kingdom",1786.28,156
+15996,"United Kingdom",4486.76,544
+15998,"United Kingdom",13636.84,2192
+16000,"United Kingdom",52997.20,40
+16003,"United Kingdom",12372.08,500
+16005,"United Kingdom",2742.60,964
+16006,"United Kingdom",486.24,40
+16007,"United Kingdom",7843.40,1740
+16008,"United Kingdom",2033.12,136
+16009,"United Kingdom",4128.04,376
+16010,"United Kingdom",1985.28,400
+16011,"United Kingdom",16217.16,1016
+16012,"United Kingdom",5791.60,404
+16013,"United Kingdom",212017.20,661
+16014,"United Kingdom",2854.32,628
+16015,"United Kingdom",3118.92,804
+16016,"United Kingdom",6556.36,1012
+16017,"United Kingdom",998.76,144
+16018,"United Kingdom",1878.40,128
+16019,"United Kingdom",16210.36,692
+16020,"United Kingdom",3659.64,200
+16022,"United Kingdom",2763.92,340
+16023,"United Kingdom",3048.84,420
+16024,"United Kingdom",1113.16,268
+16025,"United Kingdom",2046.64,128
+16026,"United Kingdom",991.16,136
+16027,"United Kingdom",4043.76,68
+16029,"United Kingdom",338766.12,1018
+16030,"United Kingdom",1357.96,120
+16031,"United Kingdom",2375.76,424
+16033,"United Kingdom",38916.64,5014
+16034,"United Kingdom",1791.60,92
+16036,"United Kingdom",3377.68,240
+16037,"United Kingdom",4154.08,180
+16038,"United Kingdom",2227.44,116
+16040,"United Kingdom",5701.40,284
+16041,"United Kingdom",14579.20,28
+16042,"United Kingdom",5047.48,300
+16043,"United Kingdom",3771.16,184
+16045,"United Kingdom",5710.80,360
+16048,"United Kingdom",1534.20,45
+16049,"United Kingdom",4771.48,1336
+16050,"United Kingdom",651.20,44
+16052,"United Kingdom",1630.44,156
+16053,"United Kingdom",7738.96,424
+16054,"United Kingdom",3693.20,316
+16055,"United Kingdom",539.20,32
+16056,"United Kingdom",3022.64,308
+16057,"United Kingdom",10445.68,564
+16059,"United Kingdom",6478.44,788
+16062,"United Kingdom",5272.60,300
+16063,"United Kingdom",1341.28,92
+16065,"United Kingdom",1612.16,312
+16066,"United Kingdom",6140.20,416
+16070,"United Kingdom",3515.40,140
+16071,"United Kingdom",1375.76,88
+16072,"United Kingdom",2532.88,100
+16073,"United Kingdom",489.60,4
+16076,"United Kingdom",9274.04,548
+16078,"United Kingdom",633.60,8
+16079,"United Kingdom",5897.60,92
+16080,"United Kingdom",902.64,44
+16081,"United Kingdom",12731.60,996
+16083,"United Kingdom",6828.08,148
+16084,"United Kingdom",1764.72,156
+16085,"United Kingdom",4486.92,736
+16086,"United Kingdom",4676.96,164
+16091,"United Kingdom",1545.44,88
+16092,"United Kingdom",3650.64,228
+16093,"United Kingdom",68.00,4
+16094,"United Kingdom",5035.60,300
+16096,"United Kingdom",1600.88,56
+16097,"United Kingdom",740.20,40
+16098,"United Kingdom",8888.80,296
+16099,"United Kingdom",3010.80,160
+16101,"United Kingdom",6218.76,364
+16102,"United Kingdom",8038.16,252
+16103,"United Kingdom",5935.04,200
+16104,"United Kingdom",1407.04,144
+16105,"United Kingdom",1398.24,56
+16106,"United Kingdom",486.64,28
+16107,"United Kingdom",14832.64,140
+16108,"United Kingdom",3734.80,212
+16109,"United Kingdom",2692.32,76
+16110,"United Kingdom",5774.04,1556
+16112,"United Kingdom",782.96,64
+16113,"United Kingdom",786.72,140
+16114,"United Kingdom",593.40,36
+16115,"United Kingdom",7407.56,1228
+16116,"United Kingdom",2673.36,148
+16117,"United Kingdom",1049.04,128
+16119,"United Kingdom",1693.44,64
+16120,"United Kingdom",5378.16,124
+16121,"United Kingdom",4146.52,1008
+16122,"United Kingdom",3035.28,168
+16123,"United Kingdom",1231.12,64
+16124,"United Kingdom",1267.20,52
+16125,"United Kingdom",1299.00,56
+16126,"United Kingdom",28853.68,532
+16127,"United Kingdom",2758.20,168
+16128,"United Kingdom",8620.08,420
+16131,"United Kingdom",14918.96,328
+16133,"United Kingdom",66142.44,1528
+16134,"United Kingdom",2789.48,152
+16135,"United Kingdom",2070.20,84
+16136,"United Kingdom",3287.28,168
+16139,"United Kingdom",3532.84,172
+16140,"United Kingdom",3094.46,151
+16141,"United Kingdom",2724.00,128
+16142,"United Kingdom",2207.36,152
+16143,"United Kingdom",11434.04,556
+16144,"United Kingdom",700.80,4
+16145,"United Kingdom",18869.12,1104
+16146,"United Kingdom",3219.72,120
+16147,"United Kingdom",1671.60,96
+16148,"United Kingdom",610.56,8
+16149,"United Kingdom",1122.08,72
+16150,"United Kingdom",9096.50,522
+16152,"United Kingdom",8155.76,132
+16153,"United Kingdom",8504.00,400
+16156,"United Kingdom",14099.96,584
+16157,"United Kingdom",2865.08,80
+16159,"United Kingdom",1525.60,64
+16160,"United Kingdom",5764.24,112
+16161,"United Kingdom",26089.52,2152
+16162,"United Kingdom",149.60,8
+16163,"United Kingdom",3426.40,24
+16164,"United Kingdom",4475.60,168
+16168,"United Kingdom",16583.56,423
+16169,"United Kingdom",8965.32,428
+16170,"United Kingdom",8293.96,552
+16171,"United Kingdom",492.00,20
+16172,"United Kingdom",5314.20,316
+16173,"United Kingdom",6736.88,396
+16174,"United Kingdom",4104.20,96
+16175,"United Kingdom",4740.76,260
+16177,"United Kingdom",1453.60,68
+16178,"United Kingdom",1101.20,48
+16179,"United Kingdom",1029.72,52
+16180,"United Kingdom",52743.72,780
+16181,"United Kingdom",1222.16,44
+16182,"United Kingdom",36270.60,140
+16183,"United Kingdom",1354.84,60
+16184,"United Kingdom",5199.96,204
+16185,"United Kingdom",2363.24,140
+16186,"United Kingdom",21154.78,1154
+16187,"United Kingdom",30151.32,1276
+16188,"United Kingdom",4260.00,288
+16189,"United Kingdom",1045.52,56
+16190,"United Kingdom",1001.92,28
+16191,"United Kingdom",23064.64,600
+16193,"United Kingdom",1392.20,84
+16198,"United Kingdom",1842.72,64
+16200,"United Kingdom",4878.00,788
+16201,"United Kingdom",8986.28,524
+16202,"United Kingdom",1461.08,72
+16203,"United Kingdom",2873.50,167
+16204,"United Kingdom",1765.24,256
+16205,"United Kingdom",3388.28,468
+16206,"United Kingdom",2304.44,276
+16207,"United Kingdom",1864.32,84
+16208,"United Kingdom",3002.04,292
+16209,"United Kingdom",10054.96,208
+16210,"United Kingdom",91320.50,584
+16211,"United Kingdom",2426.88,100
+16212,"United Kingdom",3029.12,184
+16213,"United Kingdom",636.00,24
+16214,"United Kingdom",4251.00,176
+16215,"United Kingdom",1157.40,68
+16216,"United Kingdom",3717.72,152
+16217,"United Kingdom",1217.00,60
+16218,"United Kingdom",18158.72,470
+16221,"United Kingdom",3721.00,424
+16222,"United Kingdom",3593.88,572
+16224,"United Kingdom",5428.80,396
+16225,"United Kingdom",4671.24,580
+16226,"United Kingdom",1140.48,36
+16227,"United Kingdom",1256.88,24
+16229,"United Kingdom",4743.80,216
+16230,"United Kingdom",2787.40,176
+16232,"United Kingdom",4692.52,172
+16233,"United Kingdom",2146.72,88
+16235,"United Kingdom",4046.04,208
+16236,"United Kingdom",2147.60,100
+16239,"United Kingdom",1656.80,76
+16240,"United Kingdom",15971.60,612
+16241,"United Kingdom",12253.77,3000
+16242,"United Kingdom",17878.12,1364
+16243,"United Kingdom",1740.00,220
+16244,"United Kingdom",7365.63,437
+16245,"United Kingdom",5780.04,368
+16247,"United Kingdom",653.92,76
+16248,"United Kingdom",611.76,28
+16249,"United Kingdom",7590.28,292
+16250,"United Kingdom",1865.50,114
+16253,"United Kingdom",16303.44,532
+16255,"United Kingdom",12300.44,1224
+16256,"United Kingdom",3009.72,52
+16257,"United Kingdom",187.80,8
+16258,"United Kingdom",23724.28,616
+16260,"United Kingdom",4320.60,76
+16261,"United Kingdom",3106.00,524
+16265,"United Kingdom",24005.96,1132
+16266,"United Kingdom",3959.56,272
+16268,"United Kingdom",2795.40,192
+16270,"United Kingdom",4564.96,216
+16271,"United Kingdom",7773.56,624
+16272,"United Kingdom",1730.00,104
+16274,"United Kingdom",1806.50,345
+16275,"United Kingdom",2493.48,144
+16276,"United Kingdom",3302.40,28
+16278,"United Kingdom",2265.52,92
+16279,"United Kingdom",6977.80,492
+16281,"United Kingdom",11620.24,84
+16282,"United Kingdom",814.80,52
+16283,"United Kingdom",7162.84,744
+16284,"United Kingdom",3950.60,500
+16287,"United Kingdom",570.00,32
+16292,"United Kingdom",1425.00,80
+16293,"United Kingdom",10642.32,564
+16295,"United Kingdom",5367.00,320
+16297,"United Kingdom",1270.00,84
+16298,"United Kingdom",2588.56,120
+16302,"United Kingdom",1154.08,56
+16303,"United Kingdom",23277.32,692
+16305,"United Kingdom",1809.28,108
+16306,"United Kingdom",2529.08,164
+16308,"United Kingdom",10240.00,16
+16309,"United Kingdom",2826.28,168
+16311,"United Kingdom",2729.84,160
+16313,"United Kingdom",1096.60,64
+16315,"United Kingdom",973.28,60
+16316,"United Kingdom",12678.84,656
+16317,"United Kingdom",6481.88,324
+16318,"United Kingdom",1402.60,80
+16319,"United Kingdom",2188.80,16
+16320,"Unspecified",5224.24,280
+16321,"Australia",1565.40,52
+16322,"United Kingdom",1416.60,160
+16323,"United Kingdom",830.00,4
+16324,"United Kingdom",1922.32,508
+16325,"United Kingdom",2495.76,76
+16326,"United Kingdom",13679.04,1416
+16327,"United Kingdom",17749.03,1485
+16330,"United Kingdom",1074.44,172
+16332,"United Kingdom",7273.80,680
+16333,"United Kingdom",106507.20,180
+16337,"United Kingdom",604.20,40
+16338,"United Kingdom",1025.60,52
+16339,"United Kingdom",439.80,80
+16340,"United Kingdom",2367.56,668
+16341,"United Kingdom",8791.24,344
+16342,"United Kingdom",1636.84,76
+16343,"United Kingdom",1687.12,208
+16344,"United Kingdom",404.40,8
+16345,"United Kingdom",2927.80,192
+16347,"United Kingdom",4141.48,444
+16348,"United Kingdom",5999.60,960
+16349,"United Kingdom",214.00,36
+16350,"United Kingdom",4957.88,248
+16351,"United Kingdom",681.60,36
+16352,"United Kingdom",2100.16,116
+16353,"United Kingdom",27294.44,393
+16354,"United Kingdom",1825.20,172
+16356,"United Kingdom",950.28,140
+16357,"United Kingdom",2855.12,152
+16358,"United Kingdom",9412.08,504
+16359,"United Kingdom",7517.96,288
+16360,"United Kingdom",16464.12,3024
+16361,"United Kingdom",3862.04,452
+16362,"United Kingdom",3622.52,384
+16363,"United Kingdom",497.44,24
+16364,"United Kingdom",3320.76,244
+16365,"United Kingdom",6652.88,240
+16366,"United Kingdom",1492.80,80
+16367,"United Kingdom",3958.56,592
+16368,"United Kingdom",2006.52,312
+16369,"United Kingdom",6853.44,524
+16370,"United Kingdom",5953.24,984
+16372,"United Kingdom",1580.12,412
+16374,"United Kingdom",1974.32,456
+16376,"United Kingdom",4429.48,564
+16377,"United Kingdom",2704.80,20
+16378,"United Kingdom",1492.60,96
+16379,"United Kingdom",9930.48,484
+16380,"United Kingdom",7347.00,136
+16383,"United Kingdom",2933.24,444
+16384,"United Kingdom",2618.40,148
+16385,"United Kingdom",2520.36,276
+16386,"United Kingdom",1576.48,412
+16387,"United Kingdom",377.44,16
+16389,"United Kingdom",5833.56,140
+16392,"United Kingdom",1020.16,200
+16393,"United Kingdom",14797.88,1544
+16394,"United Kingdom",6505.04,352
+16395,"United Kingdom",6390.40,900
+16398,"United Kingdom",7933.80,368
+16399,"United Kingdom",1896.08,328
+16400,"United Kingdom",1314.32,128
+16401,"United Kingdom",23386.96,904
+16402,"United Kingdom",1504.70,317
+16403,"United Kingdom",836.00,48
+16404,"United Kingdom",2188.20,116
+16405,"United Kingdom",669.00,20
+16406,"United Kingdom",704.48,260
+16407,"United Kingdom",10298.56,812
+16409,"United Kingdom",9880.80,1080
+16411,"United Kingdom",1065.10,206
+16412,"United Kingdom",766.16,168
+16413,"United Kingdom",1129.20,132
+16414,"United Kingdom",565.00,32
+16415,"United Kingdom",878.24,232
+16416,"United Kingdom",4640.96,312
+16418,"United Kingdom",2934.80,448
+16419,"United Kingdom",4045.32,216
+16422,"United Kingdom",139414.40,1488
+16423,"United Kingdom",1453.84,76
+16424,"United Kingdom",776.64,28
+16425,"United Kingdom",1210.80,84
+16426,"United Kingdom",8451.36,1624
+16427,"United Kingdom",1114.24,40
+16429,"United Kingdom",1138.20,8
+16430,"United Kingdom",1203.40,24
+16431,"United Kingdom",2644.48,352
+16432,"United Kingdom",1848.00,40
+16433,"United Kingdom",737.04,68
+16434,"United Kingdom",6902.16,492
+16438,"United Kingdom",3483.60,572
+16440,"United Kingdom",16350.68,1280
+16441,"United Kingdom",1524.80,96
+16442,"United Kingdom",2662.04,748
+16444,"United Kingdom",3359.80,388
+16445,"United Kingdom",1151.44,312
+16446,"United Kingdom",673890.00,12
+16447,"United Kingdom",1160.84,148
+16448,"United Kingdom",1044.36,96
+16449,"United Kingdom",3395.16,192
+16450,"United Kingdom",1530.88,48
+16451,"United Kingdom",1466.28,64
+16454,"United Kingdom",27.60,8
+16455,"United Kingdom",7976.42,435
+16456,"United Kingdom",11017.88,519
+16457,"United Kingdom",904.24,40
+16458,"United Kingdom",17647.76,996
+16460,"United Kingdom",3494.48,568
+16461,"United Kingdom",605.68,132
+16462,"United Kingdom",544.00,12
+16463,"United Kingdom",6251.60,356
+16464,"United Kingdom",5573.76,1000
+16466,"United Kingdom",8427.44,716
+16468,"United Kingdom",299.60,8
+16469,"United Kingdom",2839.68,792
+16470,"United Kingdom",3221.36,720
+16471,"United Kingdom",955.80,56
+16473,"United Kingdom",1437.64,84
+16474,"United Kingdom",7819.52,1528
+16475,"United Kingdom",2430.40,128
+16477,"United Kingdom",11815.89,682
+16478,"United Kingdom",1324.00,68
+16479,"United Kingdom",1541.12,164
+16480,"United Kingdom",4087.16,244
+16482,"United Kingdom",882.48,72
+16483,"United Kingdom",557.40,76
+16484,"United Kingdom",1913.60,116
+16485,"United Kingdom",1732.64,192
+16488,"United Kingdom",2055.20,120
+16491,"United Kingdom",3407.20,180
+16493,"United Kingdom",5626.12,236
+16494,"United Kingdom",3432.52,212
+16495,"United Kingdom",2946.44,428
+16496,"United Kingdom",6981.88,408
+16497,"United Kingdom",13321.32,616
+16498,"United Kingdom",403.88,60
+16499,"United Kingdom",1502.60,80
+16500,"United Kingdom",1672.80,48
+16503,"United Kingdom",6383.60,372
+16504,"United Kingdom",2039.60,380
+16505,"United Kingdom",3110.40,16
+16506,"United Kingdom",361.20,12
+16509,"United Kingdom",1522.60,56
+16510,"United Kingdom",1390.50,70
+16511,"United Kingdom",4273.56,756
+16513,"United Kingdom",4100.36,160
+16515,"United Kingdom",6943.52,492
+16516,"United Kingdom",406.80,24
+16517,"United Kingdom",789.00,76
+16518,"United Kingdom",2123.76,176
+16519,"United Kingdom",860.32,52
+16520,"United Kingdom",4689.08,692
+16523,"United Kingdom",46837.16,1416
+16525,"United Kingdom",54759.16,764
+16526,"United Kingdom",1401.28,76
+16527,"United Kingdom",1063.44,68
+16528,"United Kingdom",977.64,68
+16529,"United Kingdom",2250.80,140
+16531,"United Kingdom",5084.20,316
+16532,"United Kingdom",26995.20,16
+16533,"United Kingdom",4647.44,752
+16535,"United Kingdom",2633.12,136
+16536,"United Kingdom",2468.76,248
+16539,"United Kingdom",6344.43,223
+16542,"United Kingdom",478.48,20
+16545,"United Kingdom",1357.20,12
+16546,"United Kingdom",4087.60,124
+16549,"United Kingdom",19821.32,4440
+16550,"United Kingdom",10416.88,1116
+16551,"United Kingdom",3688.48,128
+16552,"United Kingdom",2069.91,82
+16553,"United Kingdom",25699.68,364
+16554,"United Kingdom",4277.00,256
+16555,"United Kingdom",1513.76,88
+16556,"United Kingdom",15188.80,924
+16557,"United Kingdom",1407.40,52
+16558,"United Kingdom",37646.44,2048
+16560,"United Kingdom",3840.44,256
+16561,"United Kingdom",2197.48,132
+16563,"United Kingdom",5172.64,92
+16565,"United Kingdom",694.80,12
+16566,"United Kingdom",2823.92,80
+16567,"United Kingdom",3589.60,144
+16569,"United Kingdom",622.80,32
+16570,"United Kingdom",16492.56,564
+16571,"United Kingdom",6295.16,376
+16572,"United Kingdom",4664.56,264
+16573,"United Kingdom",3029.00,196
+16574,"United Kingdom",2093.76,124
+16581,"United Kingdom",423.36,36
+16582,"United Kingdom",1556.88,44
+16583,"United Kingdom",1167.25,70
+16584,"United Kingdom",3845.12,116
+16586,"United Kingdom",3060.60,48
+16587,"United Kingdom",947.40,56
+16589,"United Kingdom",2019.36,144
+16591,"United Kingdom",854.00,40
+16592,"United Kingdom",18962.84,996
+16593,"United Kingdom",1320.12,108
+16594,"United Kingdom",725.92,216
+16595,"United Kingdom",1623.84,384
+16596,"United Kingdom",1291.80,60
+16597,"United Kingdom",360.16,28
+16598,"United Kingdom",580.20,40
+16600,"United Kingdom",3320.08,252
+16601,"United Kingdom",1010.80,128
+16602,"United Kingdom",2797.16,144
+16603,"United Kingdom",1979.88,140
+16607,"United Kingdom",14619.44,760
+16609,"United Kingdom",26788.24,1320
+16610,"United Kingdom",419.04,32
+16611,"United Kingdom",700.96,56
+16612,"United Kingdom",5297.84,296
+16613,"United Kingdom",2832.36,136
+16614,"United Kingdom",2087.16,108
+16616,"United Kingdom",2313.84,152
+16617,"United Kingdom",1059.80,28
+16618,"United Kingdom",12048.56,444
+16619,"United Kingdom",1000.04,60
+16620,"United Kingdom",715.84,36
+16621,"United Kingdom",4456.00,144
+16623,"United Kingdom",588.60,24
+16624,"United Kingdom",3947.04,228
+16625,"United Kingdom",1403.12,96
+16626,"United Kingdom",19278.40,800
+16627,"United Kingdom",1441.60,92
+16628,"United Kingdom",9282.84,496
+16629,"United Kingdom",1806.92,280
+16633,"United Kingdom",12553.32,660
+16634,"United Kingdom",1101.40,49
+16637,"United Kingdom",5134.68,304
+16638,"United Kingdom",6943.68,384
+16639,"United Kingdom",5790.64,228
+16641,"United Kingdom",924.40,48
+16642,"United Kingdom",2897.68,144
+16643,"United Kingdom",2194.04,120
+16644,"United Kingdom",3530.48,264
+16647,"United Kingdom",916.24,60
+16648,"United Kingdom",1382.64,88
+16650,"United Kingdom",2269.28,108
+16652,"United Kingdom",31190.52,544
+16653,"United Kingdom",5959.12,344
+16654,"United Kingdom",2405.08,116
+16655,"United Kingdom",16902.64,1124
+16656,"United Kingdom",34503.20,292
+16657,"United Kingdom",3924.80,876
+16658,"United Kingdom",522.96,36
+16659,"United Kingdom",156.48,8
+16660,"United Kingdom",6164.88,92
+16665,"United Kingdom",541.60,36
+16666,"United Kingdom",522.96,136
+16667,"United Kingdom",2280.52,212
+16668,"United Kingdom",1505.76,104
+16669,"United Kingdom",6296.72,716
+16670,"United Kingdom",18136.00,1116
+16671,"United Kingdom",6769.08,24
+16672,"United Kingdom",33173.36,480
+16674,"United Kingdom",1346.44,404
+16676,"United Kingdom",7168.56,400
+16678,"United Kingdom",14071.56,728
+16679,"United Kingdom",519.00,12
+16680,"United Kingdom",802.80,44
+16681,"United Kingdom",8589.36,196
+16682,"United Kingdom",4112.00,120
+16684,"United Kingdom",295640.32,1188
+16685,"United Kingdom",1328.88,256
+16686,"United Kingdom",13414.08,2540
+16688,"United Kingdom",6021.44,292
+16689,"United Kingdom",1848.80,56
+16690,"United Kingdom",1030.12,56
+16692,"United Kingdom",5104.00,12
+16693,"United Kingdom",2236.64,264
+16696,"United Kingdom",2631.60,40
+16697,"United Kingdom",501.80,96
+16698,"United Kingdom",7992.00,20
+16700,"United Kingdom",24642.12,1456
+16701,"United Kingdom",24585.12,636
+16705,"United Kingdom",67430.04,1300
+16706,"United Kingdom",2396.68,548
+16708,"United Kingdom",2626.52,108
+16709,"United Kingdom",13381.48,352
+16710,"United Kingdom",11191.16,1816
+16711,"United Kingdom",6884.92,96
+16712,"United Kingdom",17721.72,1992
+16713,"United Kingdom",32817.84,2828
+16714,"United Kingdom",4830.92,388
+16715,"United Kingdom",1206.88,76
+16716,"United Kingdom",3604.80,8
+16717,"United Kingdom",19173.16,972
+16718,"United Kingdom",3168.25,230
+16719,"United Kingdom",8593.88,920
+16720,"United Kingdom",679.56,116
+16721,"United Kingdom",1237.08,156
+16722,"United Kingdom",21822.92,1012
+16723,"United Kingdom",2540.24,204
+16725,"United Kingdom",3415.38,662
+16726,"United Kingdom",6090.88,792
+16727,"United Kingdom",1175.28,196
+16728,"United Kingdom",4782.88,1164
+16729,"United Kingdom",36620.08,3208
+16730,"United Kingdom",3226.16,352
+16732,"United Kingdom",3492.04,156
+16734,"United Kingdom",3045.44,256
+16735,"United Kingdom",11720.32,600
+16737,"United Kingdom",1670.40,4
+16738,"United Kingdom",15.00,4
+16739,"United Kingdom",1761.60,68
+16742,"United Kingdom",1859.60,4
+16743,"United Kingdom",10197.28,840
+16744,"United Kingdom",5633.00,1024
+16745,"United Kingdom",31355.48,1604
+16746,"United Kingdom",29773.52,2000
+16747,"United Kingdom",3527.84,180
+16748,"United Kingdom",6622.80,308
+16750,"United Kingdom",2898.92,408
+16751,"United Kingdom",7331.44,124
+16752,"United Kingdom",1088.50,50
+16753,"United Kingdom",944.48,148
+16754,"United Kingdom",10012.00,10
+16755,"United Kingdom",6668.32,740
+16756,"United Kingdom",1361.88,72
+16757,"United Kingdom",427.32,28
+16758,"United Kingdom",1616.56,92
+16759,"United Kingdom",3315.16,176
+16761,"United Kingdom",1346.48,56
+16762,"United Kingdom",6138.32,372
+16763,"United Kingdom",2770.40,108
+16764,"United Kingdom",13365.08,3296
+16765,"United Kingdom",136.00,4
+16766,"United Kingdom",4784.00,144
+16767,"United Kingdom",24867.60,972
+16768,"United Kingdom",2088.08,248
+16769,"United Kingdom",1690.56,176
+16770,"United Kingdom",3751.84,651
+16771,"United Kingdom",9557.00,1068
+16773,"United Kingdom",866.52,124
+16774,"United Kingdom",3443.48,216
+16775,"United Kingdom",7850.04,720
+16776,"United Kingdom",1597.12,320
+16777,"United Kingdom",989.40,212
+16778,"United Kingdom",983.76,64
+16779,"United Kingdom",50099.88,1500
+16780,"United Kingdom",2128.36,296
+16781,"United Kingdom",1635.75,90
+16782,"United Kingdom",11922.40,904
+16784,"United Kingdom",740.80,20
+16788,"United Kingdom",3080.08,712
+16789,"United Kingdom",323.20,20
+16790,"United Kingdom",6852.88,412
+16791,"United Kingdom",7953.32,1488
+16792,"United Kingdom",476.92,52
+16793,"United Kingdom",1111.36,76
+16794,"United Kingdom",5745.12,1320
+16795,"United Kingdom",1701.32,280
+16796,"United Kingdom",1376.08,80
+16800,"United Kingdom",5093.40,700
+16801,"United Kingdom",6899.04,320
+16803,"United Kingdom",1517.92,108
+16804,"United Kingdom",2181.56,244
+16805,"United Kingdom",1931.76,404
+16806,"United Kingdom",3401.56,448
+16807,"United Kingdom",5670.12,336
+16808,"United Kingdom",1228.08,104
+16809,"United Kingdom",4629.16,688
+16810,"United Kingdom",1404.56,68
+16811,"United Kingdom",2271.80,116
+16812,"United Kingdom",1991.80,64
+16813,"United Kingdom",7694.00,1992
+16814,"United Kingdom",28547.19,1412
+16816,"United Kingdom",1883.04,124
+16817,"United Kingdom",6920.44,360
+16818,"United Kingdom",14638.32,816
+16820,"United Kingdom",2276.64,120
+16823,"United Kingdom",1484.92,160
+16824,"United Kingdom",2139.56,120
+16825,"United Kingdom",3443.92,120
+16826,"United Kingdom",1606.80,100
+16828,"United Kingdom",514.00,32
+16829,"United Kingdom",788.88,44
+16830,"United Kingdom",1726.84,120
+16832,"United Kingdom",1007.20,72
+16833,"United Kingdom",4943.72,212
+16834,"United Kingdom",1653.84,96
+16835,"United Kingdom",805.15,45
+16836,"United Kingdom",1060.60,48
+16837,"United Kingdom",13298.32,700
+16838,"United Kingdom",2547.96,116
+16839,"United Kingdom",75739.28,1238
+16841,"United Kingdom",8036.64,496
+16842,"United Kingdom",5666.36,292
+16843,"United Kingdom",47787.96,1704
+16846,"United Kingdom",957.12,48
+16847,"United Kingdom",773.76,48
+16848,"United Kingdom",1248.08,64
+16849,"United Kingdom",621.08,40
+16850,"United Kingdom",1430.44,80
+16851,"United Kingdom",1726.32,92
+16852,"United Kingdom",579.64,36
+16855,"United Kingdom",1444.40,84
+16856,"United Kingdom",141.60,8
+16858,"United Kingdom",1698.36,48
+16859,"United Kingdom",3246.20,224
+16861,"United Kingdom",695.04,24
+16863,"United Kingdom",2607.24,132
+16866,"United Kingdom",864.96,48
+16869,"United Kingdom",3599.48,552
+16871,"United Kingdom",11999.80,596
+16872,"United Kingdom",2720.08,28
+16873,"United Kingdom",33332.72,1276
+16875,"United Kingdom",10956.44,576
+16877,"United Kingdom",3686.52,684
+16878,"United Kingdom",53.20,12
+16880,"United Kingdom",6600.72,784
+16881,"United Kingdom",1728.00,4
+16882,"United Kingdom",3271.60,176
+16883,"United Kingdom",1367.70,184
+16884,"United Kingdom",1894.96,120
+16885,"United Kingdom",1978.52,428
+16887,"United Kingdom",797.72,156
+16889,"United Kingdom",7119.08,600
+16891,"United Kingdom",3821.96,942
+16892,"United Kingdom",2517.88,456
+16893,"United Kingdom",626.92,196
+16895,"United Kingdom",1068.28,328
+16897,"United Kingdom",1237.92,160
+16898,"United Kingdom",2256.44,728
+16899,"United Kingdom",5940.04,560
+16900,"United Kingdom",4234.64,368
+16902,"United Kingdom",9226.72,208
+16903,"United Kingdom",1815.64,292
+16904,"United Kingdom",16463.88,3096
+16905,"United Kingdom",14653.08,918
+16906,"United Kingdom",2461.28,396
+16907,"United Kingdom",5314.24,696
+16909,"United Kingdom",1720.80,84
+16910,"United Kingdom",6883.24,2416
+16912,"United Kingdom",12304.72,504
+16913,"United Kingdom",453.76,32
+16914,"United Kingdom",1176.04,164
+16915,"United Kingdom",2563.12,244
+16916,"United Kingdom",2792.38,680
+16917,"United Kingdom",1566.08,36
+16918,"United Kingdom",5012.80,584
+16919,"United Kingdom",10658.20,1352
+16921,"United Kingdom",768.12,264
+16923,"United Kingdom",31978.00,2976
+16924,"United Kingdom",3767.40,368
+16926,"United Kingdom",1151.25,70
+16927,"United Kingdom",2172.20,24
+16928,"United Kingdom",12221.25,930
+16929,"United Kingdom",5778.36,340
+16930,"United Kingdom",1620.32,232
+16931,"United Kingdom",21035.00,3989
+16932,"United Kingdom",846.16,256
+16933,"United Kingdom",2650.60,204
+16934,"United Kingdom",4624.36,288
+16936,"United Kingdom",1366.32,260
+16938,"United Kingdom",12664.40,1108
+16940,"United Kingdom",14150.20,1336
+16942,"United Kingdom",9110.80,1304
+16943,"United Kingdom",3764.92,140
+16945,"United Kingdom",20132.88,1140
+16947,"United Kingdom",1844.72,96
+16948,"United Kingdom",1740.08,76
+16949,"United Kingdom",5216.48,244
+16950,"United Kingdom",5974.48,188
+16951,"United Kingdom",5334.20,356
+16952,"United Kingdom",720.44,68
+16953,"United Kingdom",83.20,4
+16954,"United Kingdom",8340.32,216
+16955,"United Kingdom",2393.02,114
+16956,"United Kingdom",1301.36,68
+16957,"United Kingdom",1781.92,72
+16959,"United Kingdom",469.40,28
+16960,"United Kingdom",2154.60,436
+16961,"United Kingdom",1244.16,72
+16963,"United Kingdom",442.20,28
+16965,"United Kingdom",898.36,108
+16966,"United Kingdom",8619.88,112
+16967,"United Kingdom",1336.08,88
+16968,"United Kingdom",1757.72,124
+16969,"United Kingdom",2681.24,176
+16971,"United Kingdom",1595.16,200
+16976,"United Kingdom",1006.08,8
+16978,"United Kingdom",1615.52,180
+16979,"United Kingdom",8257.20,396
+16980,"United Kingdom",4482.04,360
+16982,"United Kingdom",1955.52,112
+16983,"United Kingdom",8196.69,641
+16984,"United Kingdom",19675.60,1740
+16985,"United Kingdom",26492.08,552
+16986,"United Kingdom",7492.80,12
+16987,"United Kingdom",6824.40,544
+16988,"United Kingdom",819.76,44
+16989,"United Kingdom",5833.20,72
+16990,"United Kingdom",716.00,4
+16992,"United Kingdom",6816.64,396
+16996,"United Kingdom",6409.84,168
+16997,"United Kingdom",3588.00,60
+16998,"United Kingdom",1180.00,16
+16999,"United Kingdom",1998.68,96
+17001,"United Kingdom",20254.28,828
+17002,"United Kingdom",6691.32,220
+17004,"United Kingdom",6559.84,212
+17006,"United Kingdom",3707.92,208
+17007,"United Kingdom",3864.52,224
+17010,"United Kingdom",871.44,48
+17011,"United Kingdom",1153.20,64
+17014,"United Kingdom",3196.28,356
+17015,"United Kingdom",7866.72,920
+17017,"United Kingdom",42823.88,1194
+17018,"United Kingdom",3781.20,68
+17019,"United Kingdom",6029.00,1036
+17022,"United Kingdom",324.80,32
+17024,"United Kingdom",383.40,12
+17025,"United Kingdom",1712.05,45
+17026,"United Kingdom",703.47,24
+17027,"United Kingdom",3659.32,632
+17029,"United Kingdom",2864.00,8
+17030,"United Kingdom",587.48,44
+17031,"United Kingdom",1719.40,100
+17033,"United Kingdom",4496.16,132
+17034,"United Kingdom",3024.08,124
+17035,"United Kingdom",1734.12,112
+17037,"United Kingdom",6164.48,352
+17038,"United Kingdom",688.20,128
+17040,"United Kingdom",2778.36,84
+17041,"United Kingdom",5531.80,356
+17042,"United Kingdom",4217.36,396
+17043,"United Kingdom",7536.24,444
+17044,"United Kingdom",4809.60,32
+17045,"United Kingdom",1357.76,88
+17046,"United Kingdom",2710.88,96
+17047,"United Kingdom",4947.20,292
+17048,"United Kingdom",4237.80,196
+17049,"United Kingdom",26040.60,1456
+17050,"United Kingdom",13546.32,1328
+17051,"United Kingdom",1120.36,196
+17052,"United Kingdom",1712.24,400
+17053,"United Kingdom",2217.12,60
+17054,"United Kingdom",6442.32,392
+17058,"United Kingdom",5141.16,272
+17059,"United Kingdom",14477.30,2426
+17060,"United Kingdom",996.96,24
+17061,"United Kingdom",21652.40,428
+17062,"United Kingdom",2439.72,319
+17063,"United Kingdom",7352.96,380
+17064,"United Kingdom",3802.20,276
+17068,"United Kingdom",21594.16,1368
+17069,"United Kingdom",14343.21,764
+17070,"United Kingdom",1513.04,288
+17071,"United Kingdom",12706.16,704
+17073,"United Kingdom",6493.36,772
+17075,"United Kingdom",3971.88,364
+17076,"United Kingdom",3858.96,116
+17078,"United Kingdom",1512.80,112
+17079,"United Kingdom",712.80,12
+17080,"United Kingdom",1308.88,36
+17081,"United Kingdom",1474.92,308
+17082,"United Kingdom",8316.60,340
+17083,"United Kingdom",7852.32,256
+17084,"United Kingdom",14307.56,788
+17085,"United Kingdom",7197.16,848
+17086,"United Kingdom",8566.40,400
+17088,"United Kingdom",9704.52,544
+17090,"United Kingdom",8494.80,264
+17091,"United Kingdom",17458.44,900
+17092,"United Kingdom",8428.04,568
+17094,"United Kingdom",1208.00,56
+17095,"United Kingdom",5483.84,300
+17096,"United Kingdom",4709.52,224
+17097,"Spain",4259.20,964
+17100,"United Kingdom",4125.76,272
+17101,"United Kingdom",8594.92,212
+17102,"United Kingdom",102.00,4
+17105,"United Kingdom",2795.12,376
+17107,"United Kingdom",50916.44,1904
+17109,"United Kingdom",3661.60,492
+17110,"United Kingdom",693.20,52
+17111,"United Kingdom",1062.44,124
+17114,"United Kingdom",3759.80,568
+17115,"United Kingdom",4148.80,180
+17117,"United Kingdom",464.80,36
+17118,"United Kingdom",760.08,48
+17119,"United Kingdom",2610.04,148
+17120,"United Kingdom",1426.64,84
+17122,"United Kingdom",673.28,32
+17123,"United Kingdom",1694.40,44
+17124,"United Kingdom",1195.56,128
+17125,"United Kingdom",1254.80,196
+17126,"United Kingdom",4403.72,1120
+17128,"United Kingdom",699.16,64
+17131,"United Kingdom",12310.08,640
+17133,"United Kingdom",23159.36,116
+17134,"United Kingdom",1930.00,108
+17135,"United Kingdom",5433.30,234
+17138,"United Kingdom",1726.40,108
+17139,"United Kingdom",50894.44,2244
+17140,"United Kingdom",1861.28,80
+17142,"United Kingdom",2316.00,60
+17144,"United Kingdom",4006.08,196
+17146,"United Kingdom",3069.92,144
+17147,"United Kingdom",7027.56,336
+17148,"United Kingdom",499.52,36
+17152,"United Kingdom",6758.00,56
+17153,"United Kingdom",926.52,60
+17154,"United Kingdom",1458.00,100
+17155,"United Kingdom",1061.40,92
+17157,"United Kingdom",1757.04,80
+17158,"United Kingdom",5588.28,296
+17159,"United Kingdom",8108.32,504
+17160,"United Kingdom",17351.52,1092
+17162,"United Kingdom",7752.72,468
+17163,"United Kingdom",1172.40,20
+17164,"United Kingdom",10714.80,620
+17165,"United Kingdom",634.72,40
+17166,"United Kingdom",825.36,48
+17169,"United Kingdom",3878.48,248
+17171,"United Kingdom",899.64,64
+17172,"United Kingdom",1271.04,60
+17173,"United Kingdom",18493.60,404
+17174,"United Kingdom",239.60,16
+17175,"United Kingdom",6080.52,272
+17176,"United Kingdom",1729.72,76
+17179,"United Kingdom",4301.20,416
+17180,"United Kingdom",3275.12,532
+17181,"United Kingdom",1115.20,94
+17183,"United Kingdom",13537.80,300
+17186,"United Kingdom",1152.00,16
+17187,"United Kingdom",1100.60,56
+17188,"United Kingdom",11813.32,372
+17189,"United Kingdom",1564.32,256
+17190,"United Kingdom",1901.80,84
+17191,"United Kingdom",9470.00,1040
+17193,"United Kingdom",9547.60,164
+17194,"United Kingdom",1062.28,120
+17197,"United Kingdom",4322.04,132
+17198,"United Kingdom",3422.94,469
+17201,"United Kingdom",1533.12,184
+17203,"United Kingdom",15239.48,644
+17204,"United Kingdom",7173.84,264
+17205,"United Kingdom",1576.32,56
+17206,"United Kingdom",816.96,28
+17211,"United Kingdom",10294.55,958
+17212,"United Kingdom",907.40,16
+17213,"United Kingdom",13493.32,760
+17214,"United Kingdom",4372.56,420
+17217,"United Kingdom",454.00,36
+17218,"United Kingdom",8540.12,1188
+17219,"United Kingdom",501.68,112
+17220,"United Kingdom",14883.88,2136
+17221,"United Kingdom",1479.24,256
+17222,"United Kingdom",1758.56,140
+17223,"United Kingdom",1745.76,204
+17226,"United Kingdom",1573.96,84
+17227,"United Kingdom",3781.48,196
+17228,"United Kingdom",9652.06,1003
+17229,"United Kingdom",1369.12,204
+17230,"United Kingdom",16018.44,300
+17231,"United Kingdom",14585.12,2404
+17232,"United Kingdom",1719.28,152
+17233,"United Kingdom",1001.76,116
+17234,"United Kingdom",699.16,64
+17235,"United Kingdom",2919.14,139
+17236,"United Kingdom",4140.92,460
+17237,"United Kingdom",1258.76,76
+17238,"United Kingdom",17771.27,2592
+17239,"United Kingdom",1813.20,64
+17242,"United Kingdom",6319.84,200
+17243,"United Kingdom",38089.62,1759
+17244,"United Kingdom",4267.60,144
+17245,"United Kingdom",747.00,40
+17247,"United Kingdom",1348.56,240
+17248,"United Kingdom",1341.64,292
+17250,"United Kingdom",1644.08,252
+17251,"United Kingdom",1133.12,156
+17252,"United Kingdom",1471.04,364
+17253,"United Kingdom",810.88,80
+17254,"United Kingdom",1286.96,492
+17255,"United Kingdom",1252.44,324
+17256,"United Kingdom",990.40,72
+17259,"United Kingdom",2491.88,516
+17262,"United Kingdom",6016.88,56
+17263,"United Kingdom",292.52,104
+17265,"United Kingdom",2489.68,560
+17266,"United Kingdom",1532.36,368
+17267,"United Kingdom",1366.32,164
+17268,"United Kingdom",5438.56,40
+17272,"United Kingdom",8860.20,480
+17274,"United Kingdom",687.00,140
+17277,"United Kingdom",4417.60,292
+17278,"United Kingdom",984.16,60
+17279,"United Kingdom",751.32,36
+17282,"United Kingdom",6889.24,384
+17284,"United Kingdom",7584.28,1252
+17286,"United Kingdom",644.88,196
+17287,"United Kingdom",4838.04,541
+17288,"United Kingdom",5976.24,628
+17289,"United Kingdom",4189.32,496
+17290,"United Kingdom",2448.88,468
+17291,"United Kingdom",4406.40,8
+17293,"United Kingdom",8073.44,584
+17295,"United Kingdom",2404.08,328
+17297,"United Kingdom",556.92,220
+17298,"United Kingdom",1993.68,120
+17299,"United Kingdom",2867.08,248
+17301,"United Kingdom",790.52,264
+17302,"United Kingdom",5228.80,364
+17303,"United Kingdom",1093.16,232
+17306,"United Kingdom",40885.24,288
+17309,"United Kingdom",440.80,60
+17311,"United Kingdom",6082.84,236
+17312,"United Kingdom",2577.20,56
+17313,"United Kingdom",9315.36,96
+17314,"United Kingdom",10777.44,560
+17315,"United Kingdom",26523.08,1988
+17317,"United Kingdom",10401.36,36
+17320,"United Kingdom",5470.80,328
+17321,"United Kingdom",3236.68,488
+17323,"United Kingdom",4258.40,904
+17324,"United Kingdom",4953.52,216
+17325,"United Kingdom",453.20,28
+17329,"United Kingdom",2255.64,144
+17330,"United Kingdom",1634.40,28
+17331,"United Kingdom",700.80,4
+17333,"United Kingdom",1997.16,116
+17334,"United Kingdom",1228.08,44
+17337,"United Kingdom",8781.48,2308
+17338,"United Kingdom",29075.80,3256
+17339,"United Kingdom",973.44,36
+17340,"United Kingdom",54726.16,1812
+17341,"United Kingdom",3207.28,764
+17343,"United Kingdom",774.56,68
+17344,"United Kingdom",713.24,144
+17345,"United Kingdom",2486.04,384
+17346,"United Kingdom",12435.40,2308
+17347,"United Kingdom",915.84,4
+17348,"United Kingdom",5163.64,920
+17349,"United Kingdom",443.00,36
+17350,"United Kingdom",5322.48,308
+17351,"United Kingdom",2487.60,120
+17353,"United Kingdom",9570.00,44
+17354,"United Kingdom",5572.24,64
+17356,"United Kingdom",712.88,76
+17357,"United Kingdom",1619.12,200
+17358,"United Kingdom",1544.20,256
+17359,"United Kingdom",616.76,68
+17360,"United Kingdom",2766.16,592
+17361,"United Kingdom",2547.08,144
+17362,"United Kingdom",1260.72,144
+17364,"United Kingdom",20558.48,1792
+17365,"United Kingdom",21112.20,2028
+17367,"United Kingdom",673.60,136
+17368,"United Kingdom",7815.28,492
+17370,"United Kingdom",1898.96,144
+17371,"United Kingdom",1770.72,368
+17372,"United Kingdom",6289.08,1124
+17373,"United Kingdom",2881.68,240
+17374,"United Kingdom",1983.08,112
+17375,"United Kingdom",1748.96,304
+17376,"United Kingdom",980.00,116
+17377,"United Kingdom",19827.43,1924
+17379,"United Kingdom",1731.16,356
+17381,"United Kingdom",82138.52,442
+17382,"United Kingdom",261.60,8
+17383,"United Kingdom",843.40,208
+17384,"United Kingdom",1495.60,76
+17385,"United Kingdom",1071.44,192
+17386,"United Kingdom",10745.68,112
+17387,"United Kingdom",3962.84,360
+17388,"United Kingdom",5356.16,80
+17389,"United Kingdom",130016.48,872
+17391,"United Kingdom",2035.20,12
+17392,"United Kingdom",1989.24,260
+17394,"United Kingdom",815.48,16
+17396,"United Kingdom",29720.70,111
+17397,"United Kingdom",3275.64,424
+17398,"United Kingdom",2692.72,156
+17400,"United Kingdom",9108.00,932
+17402,"United Kingdom",10872.60,241
+17403,"United Kingdom",1304.52,148
+17404,"Sweden",147144.16,928
+17405,"United Kingdom",4711.80,352
+17406,"United Kingdom",9837.28,508
+17408,"United Kingdom",130.60,8
+17409,"United Kingdom",3868.60,64
+17410,"United Kingdom",5902.08,304
+17411,"United Kingdom",3421.12,180
+17412,"United Kingdom",7432.78,374
+17414,"United Kingdom",3112.00,24
+17415,"United Kingdom",2409.76,68
+17416,"United Kingdom",31297.68,1196
+17418,"United Kingdom",2285.04,140
+17419,"United Kingdom",18663.96,904
+17420,"United Kingdom",3231.13,155
+17422,"United Kingdom",8558.76,508
+17423,"United Kingdom",3338.52,124
+17425,"United Kingdom",3179.48,180
+17426,"United Kingdom",22282.36,1200
+17427,"United Kingdom",403.20,8
+17428,"United Kingdom",83264.08,1536
+17429,"United Kingdom",2456.80,176
+17430,"United Kingdom",1385.04,68
+17431,"United Kingdom",1648.60,176
+17432,"United Kingdom",1934.04,228
+17433,"United Kingdom",1398.00,256
+17434,"United Kingdom",10305.12,572
+17436,"United Kingdom",865.20,36
+17438,"United Kingdom",1649.00,72
+17440,"United Kingdom",745.68,20
+17442,"United Kingdom",12566.40,724
+17443,"Canada",2136.96,4
+17444,"Canada",12421.84,580
+17446,"United Kingdom",606.00,44
+17447,"United Kingdom",2511.92,164
+17449,"United Kingdom",10852.36,1168
+17450,"United Kingdom",862150.68,1488
+17451,"United Kingdom",8604.92,492
+17453,"United Kingdom",2060.88,88
+17454,"United Kingdom",2586.48,288
+17455,"United Kingdom",592.80,36
+17456,"United Kingdom",1040.24,72
+17457,"United Kingdom",6950.80,76
+17458,"United Kingdom",1574.32,252
+17459,"United Kingdom",2920.80,496
+17460,"United Kingdom",3134.82,138
+17461,"United Kingdom",3573.36,556
+17462,"United Kingdom",2702.76,108
+17463,"United Kingdom",8747.48,972
+17464,"United Kingdom",1299.04,44
+17466,"United Kingdom",3488.32,192
+17468,"United Kingdom",548.00,20
+17469,"United Kingdom",9268.28,440
+17470,"United Kingdom",5035.48,344
+17472,"United Kingdom",3076.72,764
+17475,"United Kingdom",881.88,60
+17480,"United Kingdom",2113.68,120
+17481,"United Kingdom",5413.48,348
+17483,"United Kingdom",1957.12,104
+17486,"United Kingdom",1773.48,108
+17489,"United Kingdom",1506.56,116
+17490,"United Kingdom",10816.40,376
+17491,"United Kingdom",16963.88,532
+17492,"United Kingdom",1620.68,52
+17495,"United Kingdom",2050.24,112
+17496,"United Kingdom",1374.60,48
+17498,"United Kingdom",1188.72,72
+17499,"United Kingdom",2615.12,168
+17500,"United Kingdom",4618.00,24
+17501,"United Kingdom",1154.40,72
+17502,"United Kingdom",3006.80,124
+17503,"United Kingdom",2305.20,156
+17504,"United Kingdom",13466.20,572
+17505,"United Kingdom",5477.36,248
+17506,"United Kingdom",1447.60,64
+17507,"United Kingdom",2640.72,380
+17508,"Greece",1590.04,92
+17509,"United Kingdom",25400.16,1516
+17510,"United Kingdom",1233.92,80
+17511,"United Kingdom",454632.46,4567
+17512,"United Kingdom",13500.64,468
+17513,"United Kingdom",2052.80,24
+17514,"United Kingdom",997.00,192
+17515,"United Kingdom",2644.48,356
+17516,"United Kingdom",3559.52,620
+17517,"United Kingdom",615.76,44
+17519,"United Kingdom",8242.88,360
+17520,"United Kingdom",2479.24,132
+17521,"United Kingdom",3567.12,220
+17522,"United Kingdom",4449.64,304
+17523,"United Kingdom",2680.32,136
+17524,"United Kingdom",580.00,24
+17525,"United Kingdom",1914.00,40
+17526,"United Kingdom",6536.80,92
+17527,"United Kingdom",3897.88,196
+17528,"United Kingdom",16590.20,1164
+17530,"United Kingdom",11166.28,1740
+17531,"United Kingdom",1476.00,72
+17534,"United Kingdom",935.44,40
+17535,"United Kingdom",657.60,52
+17536,"United Kingdom",306.00,12
+17537,"United Kingdom",3590.48,300
+17538,"United Kingdom",460.08,40
+17540,"United Kingdom",2375.60,104
+17542,"United Kingdom",683.00,100
+17545,"United Kingdom",2805.96,668
+17548,"United Kingdom",413.20,20
+17549,"United Kingdom",782.64,32
+17550,"United Kingdom",1168.64,184
+17551,"United Kingdom",1361.16,188
+17552,"United Kingdom",4489.26,227
+17553,"United Kingdom",5950.40,8
+17554,"United Kingdom",9109.68,388
+17555,"United Kingdom",2079.20,448
+17556,"United Kingdom",733.00,32
+17557,"United Kingdom",2240.84,140
+17560,"United Kingdom",4161.08,124
+17561,"United Kingdom",703.48,196
+17562,"United Kingdom",6053.52,332
+17564,"United Kingdom",1905.56,204
+17566,"United Kingdom",4309.84,708
+17567,"United Kingdom",20406.87,744
+17569,"United Kingdom",1425.36,124
+17571,"United Kingdom",6651.00,1276
+17572,"United Kingdom",977.80,52
+17573,"United Kingdom",1522.40,100
+17574,"United Kingdom",843.40,36
+17576,"United Kingdom",15649.88,1836
+17578,"United Kingdom",573.84,20
+17579,"United Kingdom",1852.12,212
+17580,"United Kingdom",886.48,188
+17581,"United Kingdom",54334.04,2127
+17582,"United Kingdom",706.08,120
+17584,"United Kingdom",4969.20,140
+17585,"United Kingdom",4774.92,916
+17588,"United Kingdom",7095.20,108
+17589,"United Kingdom",10687.28,1120
+17590,"United Kingdom",6683.28,900
+17591,"United Kingdom",10601.08,752
+17593,"United Kingdom",17305.60,940
+17594,"United Kingdom",4898.88,248
+17595,"United Kingdom",1995.56,384
+17596,"United Kingdom",11558.28,1148
+17597,"United Kingdom",8885.88,244
+17600,"United Kingdom",717.48,56
+17601,"United Kingdom",464.04,36
+17602,"United Kingdom",22739.92,2444
+17603,"United Kingdom",1758.88,56
+17604,"United Kingdom",1369.36,280
+17608,"United Kingdom",870.32,256
+17609,"United Kingdom",4939.36,1060
+17611,"United Kingdom",17367.08,2440
+17612,"United Kingdom",9305.80,604
+17613,"United Kingdom",21617.00,1424
+17614,"United Kingdom",1639.68,416
+17615,"United Kingdom",1398.00,64
+17616,"United Kingdom",4569.60,24
+17618,"United Kingdom",4142.72,328
+17619,"United Kingdom",904.48,316
+17620,"United Kingdom",407.36,20
+17621,"United Kingdom",6009.20,112
+17623,"United Kingdom",2261.20,144
+17624,"United Kingdom",3854.72,224
+17625,"United Kingdom",8907.44,1356
+17628,"United Kingdom",303.00,20
+17629,"United Kingdom",7826.48,540
+17630,"United Kingdom",2014.40,104
+17631,"United Kingdom",2173.32,160
+17633,"United Kingdom",6186.56,336
+17634,"United Kingdom",10052.92,1268
+17636,"United Kingdom",1573.44,104
+17637,"United Kingdom",2545.24,156
+17639,"United Kingdom",434.00,28
+17640,"United Kingdom",4086.96,28
+17642,"United Kingdom",4227.96,212
+17643,"United Kingdom",558.75,45
+17644,"United Kingdom",14268.68,752
+17646,"United Kingdom",4157.16,212
+17647,"United Kingdom",651.04,36
+17648,"United Kingdom",7736.20,392
+17649,"United Kingdom",4499.64,264
+17650,"United Kingdom",664.32,32
+17651,"United Kingdom",18047.60,1056
+17652,"United Kingdom",24281.48,1272
+17653,"United Kingdom",7011.04,212
+17654,"United Kingdom",513.60,96
+17655,"United Kingdom",11343.36,392
+17656,"United Kingdom",7637.40,356
+17658,"United Kingdom",2687.68,84
+17659,"United Kingdom",13276.60,708
+17660,"United Kingdom",1189.20,192
+17663,"United Kingdom",8485.64,416
+17664,"United Kingdom",2700.56,192
+17666,"United Kingdom",3084.48,84
+17667,"United Kingdom",9277.72,520
+17668,"United Kingdom",1550.20,68
+17669,"United Kingdom",18132.96,368
+17670,"United Kingdom",822.80,44
+17671,"United Kingdom",7560.64,240
+17672,"United Kingdom",15222.76,508
+17673,"United Kingdom",7018.08,960
+17674,"United Kingdom",2204.16,108
+17675,"United Kingdom",97924.00,3312
+17676,"United Kingdom",6546.32,376
+17677,"United Kingdom",89045.52,1512
+17678,"United Kingdom",1234.44,68
+17679,"United Kingdom",9486.68,136
+17680,"United Kingdom",870.40,48
+17682,"United Kingdom",11897.72,552
+17684,"United Kingdom",998.44,64
+17685,"United Kingdom",15993.44,646
+17686,"United Kingdom",26236.84,1292
+17690,"United Kingdom",21269.44,1129
+17691,"United Kingdom",1359.60,88
+17692,"United Kingdom",3358.36,208
+17693,"United Kingdom",843.88,68
+17694,"United Kingdom",1251.28,64
+17695,"United Kingdom",3342.16,152
+17696,"United Kingdom",10132.84,476
+17697,"United Kingdom",1426.60,80
+17698,"United Kingdom",619.80,32
+17700,"United Kingdom",11990.48,620
+17701,"United Kingdom",1868.60,108
+17702,"United Kingdom",10205.56,384
+17703,"United Kingdom",4460.64,284
+17704,"United Kingdom",4179.16,148
+17705,"United Kingdom",8510.88,488
+17706,"United Kingdom",48354.08,1736
+17707,"United Kingdom",669.60,24
+17708,"United Kingdom",1068.32,140
+17709,"United Kingdom",624.80,32
+17711,"United Kingdom",1603.60,96
+17712,"United Kingdom",2251.48,128
+17714,"United Kingdom",612.00,40
+17715,"United Kingdom",1305.60,4
+17716,"United Kingdom",27259.36,1140
+17718,"United Kingdom",677.40,28
+17719,"United Kingdom",22605.04,1136
+17720,"United Kingdom",4955.96,212
+17722,"United Kingdom",10417.64,492
+17723,"United Kingdom",13105.60,40
+17724,"United Kingdom",5222.00,188
+17725,"United Kingdom",15697.04,876
+17727,"United Kingdom",5528.48,340
+17728,"United Kingdom",14593.28,828
+17730,"United Kingdom",23471.92,984
+17731,"United Kingdom",5439.32,292
+17732,"United Kingdom",1747.85,105
+17733,"United Kingdom",2934.36,148
+17734,"United Kingdom",2881.72,176
+17735,"United Kingdom",60118.84,3116
+17736,"United Kingdom",1747.36,112
+17737,"United Kingdom",922.56,56
+17738,"United Kingdom",9250.40,468
+17739,"United Kingdom",11667.40,208
+17742,"United Kingdom",1767.24,68
+17744,"United Kingdom",9963.52,568
+17746,"United Kingdom",520.60,32
+17747,"United Kingdom",285.60,4
+17749,"United Kingdom",3015.92,160
+17750,"United Kingdom",7479.12,804
+17752,"United Kingdom",322.56,4
+17754,"United Kingdom",7248.24,384
+17757,"United Kingdom",25035.59,3269
+17758,"United Kingdom",15101.44,1816
+17759,"United Kingdom",3469.80,396
+17760,"United Kingdom",1484.90,118
+17761,"United Kingdom",3204.16,92
+17763,"United Kingdom",60.00,4
+17764,"United Kingdom",3549.68,344
+17765,"United Kingdom",2035.88,288
+17767,"United Kingdom",1244.24,96
+17768,"United Kingdom",9658.20,444
+17769,"United Kingdom",19214.40,1408
+17770,"United Kingdom",4613.88,156
+17771,"United Kingdom",1088.08,252
+17772,"United Kingdom",778.48,236
+17774,"United Kingdom",5276.32,688
+17775,"United Kingdom",225.60,12
+17777,"United Kingdom",2820.84,828
+17779,"United Kingdom",3006.28,360
+17781,"United Kingdom",752.08,48
+17783,"United Kingdom",1260.08,288
+17785,"United Kingdom",527.76,52
+17786,"United Kingdom",1224.08,316
+17787,"United Kingdom",9112.24,636
+17788,"United Kingdom",4471.60,20
+17789,"United Kingdom",903.60,56
+17790,"United Kingdom",9057.16,844
+17791,"United Kingdom",487.40,52
+17793,"United Kingdom",1492.16,300
+17795,"United Kingdom",1489.36,192
+17796,"United Kingdom",2906.25,347
+17797,"United Kingdom",3683.00,512
+17799,"United Kingdom",14640.80,1824
+17800,"United Kingdom",5034.84,448
+17802,"United Kingdom",6106.88,637
+17805,"United Kingdom",2319.24,44
+17806,"United Kingdom",2253.76,176
+17809,"United Kingdom",24961.94,279
+17811,"United Kingdom",36420.92,3704
+17812,"United Kingdom",3099.48,600
+17813,"United Kingdom",7577.60,1592
+17816,"United Kingdom",179.52,84
+17817,"United Kingdom",1556.52,136
+17819,"United Kingdom",15521.45,214
+17824,"United Kingdom",1193.60,52
+17827,"United Kingdom",8402.24,936
+17828,"Malta",7411.16,276
+17829,"United Arab Emirates",3799.36,128
+17830,"United Kingdom",1736.40,100
+17831,"United Kingdom",141.60,8
+17832,"United Kingdom",630.84,248
+17835,"United Kingdom",1601.68,276
+17836,"United Kingdom",440.84,96
+17837,"United Kingdom",7028.32,728
+17838,"United Kingdom",12862.04,549
+17839,"United Kingdom",1450.20,232
+17841,"United Kingdom",180661.05,34653
+17843,"United Kingdom",821.92,148
+17844,"Canada",206.24,20
+17846,"United Kingdom",8132.40,4
+17848,"United Kingdom",3623.52,208
+17849,"United Kingdom",2803.60,124
+17850,"United Kingdom",33339.95,1810
+17852,"United Kingdom",546.96,108
+17854,"United Kingdom",1343.88,68
+17855,"United Kingdom",1044.85,85
+17856,"United Kingdom",5852.12,64
+17857,"United Kingdom",112196.16,228
+17858,"United Kingdom",22473.29,851
+17859,"United Kingdom",592.84,100
+17860,"United Kingdom",1064.60,244
+17861,"United Kingdom",9276.08,1008
+17862,"United Kingdom",2043.60,52
+17863,"United Kingdom",14142.16,666
+17864,"United Kingdom",2694.08,464
+17865,"United Kingdom",45800.80,1616
+17866,"United Kingdom",1318.60,36
+17867,"United Kingdom",5273.92,320
+17869,"United Kingdom",1782.20,168
+17870,"United Kingdom",7896.48,1168
+17871,"United Kingdom",889.20,56
+17873,"United Kingdom",8534.39,202
+17874,"United Kingdom",3294.44,208
+17877,"United Kingdom",982.04,56
+17878,"United Kingdom",1544.20,108
+17879,"United Kingdom",1236.16,32
+17880,"United Kingdom",1835.68,104
+17881,"United Kingdom",533.40,32
+17883,"United Kingdom",2836.72,604
+17884,"United Kingdom",3265.59,534
+17885,"United Kingdom",830.76,272
+17886,"United Kingdom",3703.84,476
+17887,"United Kingdom",445.40,40
+17888,"United Kingdom",3278.80,292
+17889,"United Kingdom",815.48,84
+17890,"United Kingdom",2558.36,396
+17891,"United Kingdom",847.40,144
+17892,"United Kingdom",1045.76,116
+17893,"United Kingdom",482.16,72
+17894,"United Kingdom",5404.92,888
+17895,"United Kingdom",392.00,64
+17896,"United Kingdom",1025.28,8
+17897,"United Kingdom",2453.97,503
+17898,"United Kingdom",638.24,116
+17899,"United Kingdom",623.20,128
+17900,"United Kingdom",448.80,24
+17901,"United Kingdom",441.52,76
+17904,"United Kingdom",824.68,168
+17905,"United Kingdom",3402.71,159
+17906,"United Kingdom",291.60,48
+17908,"United Kingdom",1332.40,325
+17911,"United Kingdom",1531.32,168
+17912,"United Kingdom",1291.64,156
+17913,"United Kingdom",1725.16,256
+17914,"United Kingdom",1529.32,340
+17917,"United Kingdom",1540.32,396
+17919,"United Kingdom",5751.84,100
+17920,"United Kingdom",18752.18,3095
+17921,"United Kingdom",3914.92,688
+17923,"United Kingdom",830.00,4
+17924,"United Kingdom",12369.00,130
+17925,"United Kingdom",1220.40,5
+17926,"United Kingdom",1743.76,92
+17928,"United Kingdom",876.56,96
+17929,"United Kingdom",3372.00,20
+17930,"United Kingdom",7780.32,172
+17931,"United Kingdom",1749.44,280
+17932,"United Kingdom",5740.52,388
+17934,"United Kingdom",2966.60,92
+17935,"United Kingdom",588.16,120
+17936,"United Kingdom",1712.40,340
+17937,"United Kingdom",18184.08,180
+17939,"United Kingdom",474.40,56
+17940,"United Kingdom",16425.76,76
+17941,"United Kingdom",1218.24,8
+17942,"United Kingdom",310.00,8
+17946,"United Kingdom",598.32,80
+17947,"United Kingdom",826.72,40
+17948,"United Kingdom",1434.24,4
+17949,"United Kingdom",274265.08,349
+17950,"United Kingdom",2219.60,300
+17951,"United Kingdom",4329.66,85
+17954,"United Kingdom",10307.01,2120
+17955,"United Kingdom",2229.20,76
+17956,"United Kingdom",51.00,4
+17957,"United Kingdom",515.12,136
+17958,"United Kingdom",2067.12,36
+17960,"United Kingdom",310.72,108
+17961,"United Kingdom",5675.39,1103
+17962,"United Kingdom",454.72,156
+17964,"United Kingdom",2290.16,469
+17965,"United Kingdom",11673.44,1488
+17966,"United Kingdom",6054.52,340
+17967,"United Kingdom",669.60,260
+17968,"United Kingdom",1517.00,450
+17969,"United Kingdom",1062.80,64
+17970,"United Kingdom",2447.36,128
+17972,"United Kingdom",567.96,128
+17973,"United Kingdom",1685.36,68
+17974,"United Kingdom",3328.12,808
+17975,"United Kingdom",20490.64,1244
+17976,"United Kingdom",1810.20,340
+17977,"United Kingdom",1376.76,96
+17978,"United Kingdom",1263.68,52
+17979,"United Kingdom",3188.64,616
+17980,"United Kingdom",3455.80,128
+17984,"United Kingdom",688.92,200
+17985,"United Kingdom",2599.80,96
+17986,"United Kingdom",166.40,8
+17987,"United Kingdom",794.28,52
+17988,"United Kingdom",811.12,156
+17990,"United Kingdom",2832.48,132
+17991,"United Kingdom",373.40,20
+17994,"United Kingdom",2917.76,352
+17995,"United Kingdom",304.40,8
+17997,"United Kingdom",8526.96,720
+17999,"United Kingdom",1654.36,400
+18001,"United Kingdom",1806.72,260
+18004,"United Kingdom",747.08,176
+18005,"United Kingdom",1164.84,292
+18006,"United Kingdom",1879.52,92
+18008,"United Kingdom",8702.76,128
+18009,"United Kingdom",1125.56,140
+18010,"United Kingdom",846.60,68
+18011,"United Kingdom",550.45,150
+18013,"United Kingdom",749.16,124
+18014,"United Kingdom",792.08,148
+18015,"United Kingdom",512.32,192
+18016,"United Kingdom",6660.24,540
+18017,"United Kingdom",2092.00,12
+18018,"United Kingdom",507.96,128
+18019,"United Kingdom",233.40,28
+18022,"United Kingdom",2903.44,812
+18024,"United Kingdom",1559.12,84
+18027,"United Kingdom",469.64,88
+18030,"United Kingdom",1081.80,44
+18032,"United Kingdom",294.00,20
+18033,"United Kingdom",552.88,180
+18034,"United Kingdom",1794.00,484
+18035,"United Kingdom",4006.20,256
+18036,"United Kingdom",1847.88,420
+18037,"United Kingdom",280.08,76
+18040,"United Kingdom",1595.20,84
+18041,"United Kingdom",18003.29,2104
+18042,"United Kingdom",660.20,28
+18043,"United Kingdom",2431.04,536
+18044,"United Kingdom",9042.20,540
+18045,"United Kingdom",797.20,196
+18048,"United Kingdom",869.16,32
+18050,"United Kingdom",297.60,20
+18053,"United Kingdom",1341.68,84
+18055,"United Kingdom",30760.11,1592
+18056,"United Kingdom",1577.00,84
+18058,"United Kingdom",1007.04,16
+18059,"United Kingdom",1225.84,72
+18061,"United Kingdom",8477.64,184
+18062,"United Kingdom",3237.68,120
+18064,"United Kingdom",4820.00,44
+18065,"United Kingdom",10983.60,628
+18066,"United Kingdom",1452.00,44
+18067,"United Kingdom",1591.92,152
+18068,"United Kingdom",406.80,4
+18069,"United Kingdom",9260.08,2100
+18071,"United Kingdom",1992.00,104
+18072,"United Kingdom",989.76,72
+18073,"United Kingdom",22722.32,336
+18074,"United Kingdom",2448.00,65
+18075,"United Kingdom",12821.28,668
+18077,"United Kingdom",11269.64,988
+18078,"United Kingdom",1344.52,116
+18079,"United Kingdom",17081.48,576
+18080,"United Kingdom",4926.00,8
+18081,"United Kingdom",1473.80,72
+18082,"United Kingdom",2901.28,312
+18084,"United Kingdom",361.92,4
+18085,"United Kingdom",3436.90,139
+18086,"United Kingdom",405.36,28
+18087,"United Kingdom",16222.88,8
+18088,"United Kingdom",726.60,168
+18092,"United Kingdom",36273.04,356
+18093,"United Kingdom",9110.08,160
+18094,"United Kingdom",13940.08,328
+18095,"United Kingdom",2382.60,88
+18096,"United Kingdom",4233.44,948
+18097,"United Kingdom",11452.40,456
+18099,"United Kingdom",686.84,80
+18101,"United Kingdom",894.60,164
+18102,"United Kingdom",1146713.16,2012
+18104,"United Kingdom",3251.36,164
+18105,"United Kingdom",453.92,72
+18106,"United Kingdom",2049.20,160
+18108,"United Kingdom",1144.00,72
+18109,"United Kingdom",34042.83,1948
+18110,"United Kingdom",978.40,188
+18112,"United Kingdom",2000.68,140
+18113,"United Kingdom",610.56,8
+18114,"United Kingdom",948.20,116
+18116,"United Kingdom",6285.12,1620
+18117,"United Kingdom",1475.00,312
+18118,"United Kingdom",26048.31,5627
+18119,"United Kingdom",724.48,120
+18120,"United Kingdom",444.60,68
+18121,"United Kingdom",3200.80,140
+18122,"United Kingdom",8082.80,1584
+18123,"United Kingdom",2506.68,164
+18125,"United Kingdom",5278.36,848
+18126,"United Kingdom",1005.12,256
+18127,"United Kingdom",1624.88,216
+18129,"United Kingdom",450.20,56
+18130,"United Kingdom",4831.48,312
+18133,"United Kingdom",3726.00,4
+18135,"United Kingdom",2760.84,88
+18136,"United Kingdom",3177.16,156
+18138,"United Kingdom",610.60,32
+18139,"United Kingdom",39660.72,676
+18142,"United Kingdom",4394.88,68
+18143,"United Kingdom",4758.52,288
+18144,"United Kingdom",12205.65,187
+18145,"United Kingdom",13658.44,1036
+18146,"United Kingdom",712.20,44
+18147,"United Kingdom",717.36,28
+18149,"United Kingdom",2566.32,68
+18150,"United Kingdom",2266.32,148
+18151,"United Kingdom",2654.20,156
+18154,"United Kingdom",1927.24,104
+18155,"United Kingdom",1676.08,112
+18156,"United Kingdom",3373.79,668
+18158,"United Kingdom",1947.60,148
+18159,"United Kingdom",2120.60,92
+18160,"United Kingdom",2795.84,172
+18161,"United Kingdom",7063.96,356
+18164,"United Kingdom",2000.60,124
+18165,"United Kingdom",1209.84,40
+18167,"United Kingdom",7411.44,188
+18168,"United Kingdom",5216.56,577
+18169,"United Kingdom",1009.80,44
+18170,"United Kingdom",4878.84,180
+18171,"United Kingdom",4925.24,216
+18172,"United Kingdom",40245.92,872
+18173,"United Kingdom",9485.76,140
+18174,"United Kingdom",416.00,4
+18176,"United Kingdom",2098.60,132
+18177,"United Kingdom",6569.88,348
+18178,"United Kingdom",7592.84,456
+18179,"United Kingdom",7675.64,392
+18180,"United Kingdom",8345.16,528
+18181,"United Kingdom",1712.80,192
+18183,"United Kingdom",2773.08,164
+18184,"United Kingdom",199.20,4
+18185,"United Kingdom",1455.80,76
+18188,"United Kingdom",9194.24,336
+18189,"United Kingdom",4843.36,292
+18190,"United Kingdom",1383.44,72
+18191,"United Kingdom",953.60,32
+18192,"United Kingdom",4328.28,208
+18193,"United Kingdom",975.04,64
+18194,"United Kingdom",4548.16,32
+18196,"United Kingdom",3255.52,628
+18198,"United Kingdom",24938.96,744
+18200,"United Kingdom",763.68,144
+18202,"United Kingdom",6401.80,316
+18203,"United Kingdom",641.68,76
+18204,"United Kingdom",8449.12,844
+18205,"United Kingdom",2562.64,160
+18209,"United Kingdom",728.00,40
+18210,"United Kingdom",11658.48,592
+18211,"United Kingdom",2611.04,180
+18212,"United Kingdom",1128.48,188
+18213,"United Kingdom",1000.72,64
+18215,"United Kingdom",1319.76,56
+18216,"United Kingdom",2123.60,116
+18217,"United Kingdom",2487.00,124
+18218,"United Kingdom",3484.72,96
+18219,"United Kingdom",9265.88,512
+18220,"United Kingdom",1831.68,12
+18221,"United Kingdom",4461.44,272
+18222,"United Kingdom",1913.60,80
+18223,"United Kingdom",29214.16,1232
+18224,"United Kingdom",706.60,44
+18225,"United Kingdom",26969.88,1256
+18226,"United Kingdom",24551.60,1104
+18227,"United Kingdom",375.00,20
+18228,"United Kingdom",3955.60,156
+18229,"United Kingdom",35067.32,795
+18230,"United Kingdom",14345.44,388
+18231,"United Kingdom",8678.52,528
+18232,"United Kingdom",2689.08,168
+18233,"United Kingdom",1760.00,4
+18235,"United Kingdom",7673.36,444
+18236,"United Kingdom",5066.04,264
+18237,"United Kingdom",4921.00,312
+18239,"United Kingdom",7796.04,433
+18240,"United Kingdom",1690.32,24
+18241,"United Kingdom",9018.96,456
+18242,"United Kingdom",10449.64,384
+18245,"United Kingdom",11233.64,748
+18246,"United Kingdom",3198.00,20
+18248,"United Kingdom",3477.68,204
+18249,"United Kingdom",381.36,32
+18250,"United Kingdom",1397.08,84
+18251,"United Kingdom",20461.44,76
+18252,"United Kingdom",2268.92,416
+18255,"United Kingdom",604.00,32
+18257,"United Kingdom",12317.28,620
+18259,"United Kingdom",10163.20,184
+18260,"United Kingdom",11595.80,568
+18261,"United Kingdom",1356.36,88
+18262,"United Kingdom",663.92,56
+18263,"United Kingdom",5012.64,252
+18265,"United Kingdom",3396.24,196
+18268,"United Kingdom",102.00,4
+18269,"United Kingdom",748.80,32
+18270,"United Kingdom",1443.80,56
+18272,"United Kingdom",15311.80,828
+18273,"United Kingdom",816.00,12
+18274,"United Kingdom",703.68,44
+18276,"United Kingdom",1463.44,60
+18277,"United Kingdom",441.52,32
+18278,"United Kingdom",807.20,44
+18280,"United Kingdom",722.40,40
+18281,"United Kingdom",455.28,36
+18282,"United Kingdom",766.20,52
+18283,"United Kingdom",10064.68,3508
+18287,"United Kingdom",7409.12,284
